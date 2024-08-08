@@ -1,0 +1,2801 @@
+﻿country,year,PM2.5,Sex,Disease_type,DALY
+Australia,1990,7.59,Male,CVD,296.99
+Australia,1990,7.59,Female,CVD,209.43
+Australia,1995,7.48,Male,CVD,235.54
+Australia,1995,7.48,Female,CVD,170.51
+Australia,2000,7.36,Male,CVD,195.89
+Australia,2000,7.36,Female,CVD,143.15
+Australia,2005,6.9,Male,CVD,140.83
+Australia,2005,6.9,Female,CVD,102.01
+Australia,2010,6.79,Male,CVD,142.55
+Australia,2010,6.79,Female,CVD,102.04
+Australia,2011,6.71,Male,CVD,136.47
+Australia,2011,6.71,Female,CVD,97.51
+Australia,2012,7,Male,CVD,127.47
+Australia,2012,7,Female,CVD,90.5
+Australia,2013,6.96,Male,CVD,122.19
+Australia,2013,6.96,Female,CVD,85.48
+Australia,2014,6.88,Male,CVD,119.4
+Australia,2014,6.88,Female,CVD,83.25
+Australia,2015,6.85,Male,CVD,117.62
+Australia,2015,6.85,Female,CVD,80.35
+Australia,2016,6.82,Male,CVD,125.27
+Australia,2016,6.82,Female,CVD,84.62
+Australia,2017,6.67,Male,CVD,146.6
+Australia,2017,6.67,Female,CVD,97.44
+Australia,2018,6.74,Male,CVD,165.6
+Australia,2018,6.74,Female,CVD,109.94
+Australia,2019,6.75,Male,CVD,182.42
+Australia,2019,6.75,Female,CVD,118.8
+Bangladesh,1990,52.91,Male,CVD,39.08
+Bangladesh,1990,52.91,Female,CVD,31.44
+Bangladesh,1995,51.64,Male,CVD,38.55
+Bangladesh,1995,51.64,Female,CVD,30.97
+Bangladesh,2000,53.75,Male,CVD,39.79
+Bangladesh,2000,53.75,Female,CVD,31.19
+Bangladesh,2005,55.06,Male,CVD,44.61
+Bangladesh,2005,55.06,Female,CVD,34.41
+Bangladesh,2010,56.42,Male,CVD,53.87
+Bangladesh,2010,56.42,Female,CVD,41.17
+Bangladesh,2011,60.54,Male,CVD,64.34
+Bangladesh,2011,60.54,Female,CVD,48.91
+Bangladesh,2012,68.94,Male,CVD,69.88
+Bangladesh,2012,68.94,Female,CVD,53.04
+Bangladesh,2013,66.43,Male,CVD,27.58
+Bangladesh,2013,66.43,Female,CVD,25.44
+Bangladesh,2014,73.27,Male,CVD,30.67
+Bangladesh,2014,73.27,Female,CVD,26.91
+Bangladesh,2015,68.97,Male,CVD,34.95
+Bangladesh,2015,68.97,Female,CVD,28.38
+Bangladesh,2016,67.77,Male,CVD,33.53
+Bangladesh,2016,67.77,Female,CVD,26.85
+Bangladesh,2017,62.75,Male,CVD,42.22
+Bangladesh,2017,62.75,Female,CVD,34.66
+Bangladesh,2018,63.28,Male,CVD,42.34
+Bangladesh,2018,63.28,Female,CVD,34.66
+Bangladesh,2019,63.43,Male,CVD,41.44
+Bangladesh,2019,63.43,Female,CVD,33.68
+Brazil,1990,14.63,Male,CVD,54.02
+Brazil,1990,14.63,Female,CVD,19.91
+Brazil,1995,14.48,Male,CVD,45.94
+Brazil,1995,14.48,Female,CVD,19.78
+Brazil,2000,14.59,Male,CVD,42.05
+Brazil,2000,14.59,Female,CVD,20.86
+Brazil,2005,14.57,Male,CVD,34.49
+Brazil,2005,14.57,Female,CVD,19.45
+Brazil,2010,14.08,Male,CVD,37.07
+Brazil,2010,14.08,Female,CVD,23.31
+Brazil,2011,14.69,Male,CVD,36.56
+Brazil,2011,14.69,Female,CVD,23.19
+Brazil,2012,13.79,Male,CVD,35.18
+Brazil,2012,13.79,Female,CVD,22.98
+Brazil,2013,13.16,Male,CVD,34.3
+Brazil,2013,13.16,Female,CVD,22.3
+Brazil,2014,13,Male,CVD,33.68
+Brazil,2014,13,Female,CVD,22.36
+Brazil,2015,11.69,Male,CVD,32.62
+Brazil,2015,11.69,Female,CVD,21.85
+Brazil,2016,11.42,Male,CVD,36.05
+Brazil,2016,11.42,Female,CVD,24.07
+Brazil,2017,11.67,Male,CVD,42.81
+Brazil,2017,11.67,Female,CVD,28.51
+Brazil,2018,11.63,Male,CVD,49.43
+Brazil,2018,11.63,Female,CVD,34.12
+Brazil,2019,11.65,Male,CVD,54.55
+Brazil,2019,11.65,Female,CVD,37.06
+Canada,1990,10.09,Male,CVD,41.91
+Canada,1990,10.09,Female,CVD,23.36
+Canada,1995,9.77,Male,CVD,35.54
+Canada,1995,9.77,Female,CVD,23.18
+Canada,2000,9.2,Male,CVD,31.79
+Canada,2000,9.2,Female,CVD,23.49
+Canada,2005,9.02,Male,CVD,22.81
+Canada,2005,9.02,Female,CVD,18.97
+Canada,2010,7.88,Male,CVD,26.32
+Canada,2010,7.88,Female,CVD,23.01
+Canada,2011,7.34,Male,CVD,26.43
+Canada,2011,7.34,Female,CVD,23.37
+Canada,2012,7.6,Male,CVD,26.06
+Canada,2012,7.6,Female,CVD,22.96
+Canada,2013,7.28,Male,CVD,26.03
+Canada,2013,7.28,Female,CVD,22.83
+Canada,2014,7.49,Male,CVD,26.55
+Canada,2014,7.49,Female,CVD,23.17
+Canada,2015,7.28,Male,CVD,26.56
+Canada,2015,7.28,Female,CVD,23.56
+Canada,2016,6.21,Male,CVD,29.18
+Canada,2016,6.21,Female,CVD,26.2
+Canada,2017,7.28,Male,CVD,35.44
+Canada,2017,7.28,Female,CVD,32.28
+Canada,2018,7.08,Male,CVD,40.2
+Canada,2018,7.08,Female,CVD,37.58
+Canada,2019,7.1,Male,CVD,43.95
+Canada,2019,7.1,Female,CVD,40.68
+China,1990,48.88,Male,CVD,128.08
+China,1990,48.88,Female,CVD,132.51
+China,1995,49.09,Male,CVD,134.94
+China,1995,49.09,Female,CVD,138.45
+China,2000,50.76,Male,CVD,136.87
+China,2000,50.76,Female,CVD,145
+China,2005,51.55,Male,CVD,143.22
+China,2005,51.55,Female,CVD,152.82
+China,2010,53.29,Male,CVD,152.77
+China,2010,53.29,Female,CVD,162.89
+China,2011,58.41,Male,CVD,158.78
+China,2011,58.41,Female,CVD,171.49
+China,2012,58.91,Male,CVD,164.76
+China,2012,58.91,Female,CVD,179.62
+China,2013,63.29,Male,CVD,70.82
+China,2013,63.29,Female,CVD,62.12
+China,2014,60.27,Male,CVD,76.39
+China,2014,60.27,Female,CVD,65.49
+China,2015,56.2,Male,CVD,92.5
+China,2015,56.2,Female,CVD,75.22
+China,2016,51.59,Male,CVD,105.46
+China,2016,51.59,Female,CVD,90.73
+China,2017,49.93,Male,CVD,125.81
+China,2017,49.93,Female,CVD,120.54
+China,2018,49.28,Male,CVD,124.54
+China,2018,49.28,Female,CVD,123.34
+China,2019,47.67,Male,CVD,124.2
+China,2019,47.67,Female,CVD,127.09
+Egypt,1990,66.64,Male,CVD,2013.05
+Egypt,1990,66.64,Female,CVD,1196.1
+Egypt,1995,74.62,Male,CVD,1817.93
+Egypt,1995,74.62,Female,CVD,1036.21
+Egypt,2000,69.85,Male,CVD,1850.15
+Egypt,2000,69.85,Female,CVD,985.39
+Egypt,2005,69.66,Male,CVD,2024.16
+Egypt,2005,69.66,Female,CVD,1069
+Egypt,2010,78.51,Male,CVD,2174.32
+Egypt,2010,78.51,Female,CVD,1231.44
+Egypt,2011,69.78,Male,CVD,2088.94
+Egypt,2011,69.78,Female,CVD,1239.08
+Egypt,2012,69.7,Male,CVD,2043.92
+Egypt,2012,69.7,Female,CVD,1279.93
+Egypt,2013,74.76,Male,CVD,2061.75
+Egypt,2013,74.76,Female,CVD,1310.83
+Egypt,2014,72.02,Male,CVD,2128.22
+Egypt,2014,72.02,Female,CVD,1356.35
+Egypt,2015,73.13,Male,CVD,2186.54
+Egypt,2015,73.13,Female,CVD,1391.92
+Egypt,2016,20.71,Male,CVD,2229.4
+Egypt,2016,20.71,Female,CVD,1430.29
+Egypt,2017,66.96,Male,CVD,2328.72
+Egypt,2017,66.96,Female,CVD,1466.18
+Egypt,2018,68.47,Male,CVD,2346.48
+Egypt,2018,68.47,Female,CVD,1486.08
+Egypt,2019,67.89,Male,CVD,2353.49
+Egypt,2019,67.89,Female,CVD,1494.6
+Finland,1990,8.8,Male,CVD,73.7
+Finland,1990,8.8,Female,CVD,12.53
+Finland,1995,8.14,Male,CVD,64.07
+Finland,1995,8.14,Female,CVD,12.58
+Finland,2000,7.51,Male,CVD,61.16
+Finland,2000,7.51,Female,CVD,13.25
+Finland,2005,7.11,Male,CVD,62.87
+Finland,2005,7.11,Female,CVD,15.85
+Finland,2010,7.21,Male,CVD,67.18
+Finland,2010,7.21,Female,CVD,19.71
+Finland,2011,7.02,Male,CVD,65.43
+Finland,2011,7.02,Female,CVD,20.19
+Finland,2012,6.36,Male,CVD,64.13
+Finland,2012,6.36,Female,CVD,20.89
+Finland,2013,5.98,Male,CVD,64.03
+Finland,2013,5.98,Female,CVD,21.64
+Finland,2014,6.37,Male,CVD,64.97
+Finland,2014,6.37,Female,CVD,22.19
+Finland,2015,5.63,Male,CVD,65.24
+Finland,2015,5.63,Female,CVD,23.33
+Finland,2016,5.59,Male,CVD,66.72
+Finland,2016,5.59,Female,CVD,24.48
+Finland,2017,5.26,Male,CVD,69.04
+Finland,2017,5.26,Female,CVD,25.53
+Finland,2018,5.6,Male,CVD,69.58
+Finland,2018,5.6,Female,CVD,26.42
+Finland,2019,5.57,Male,CVD,69.77
+Finland,2019,5.57,Female,CVD,27.16
+France,1990,18.55,Male,CVD,909.48
+France,1990,18.55,Female,CVD,435.82
+France,1995,17.23,Male,CVD,807.17
+France,1995,17.23,Female,CVD,406.35
+France,2000,16.08,Male,CVD,798.48
+France,2000,16.08,Female,CVD,394.35
+France,2005,14.9,Male,CVD,808.77
+France,2005,14.9,Female,CVD,426.34
+France,2010,15.08,Male,CVD,843.4
+France,2010,15.08,Female,CVD,482.23
+France,2011,14.99,Male,CVD,790.36
+France,2011,14.99,Female,CVD,482.88
+France,2012,13.69,Male,CVD,741.74
+France,2012,13.69,Female,CVD,485.44
+France,2013,13.61,Male,CVD,743.03
+France,2013,13.61,Female,CVD,493.45
+France,2014,11.59,Male,CVD,774.86
+France,2014,11.59,Female,CVD,500.54
+France,2015,12.31,Male,CVD,754.22
+France,2015,12.31,Female,CVD,514.25
+France,2016,11.49,Male,CVD,772.76
+France,2016,11.49,Female,CVD,526.3
+France,2017,11.43,Male,CVD,816.47
+France,2017,11.43,Female,CVD,538.64
+France,2018,11.54,Male,CVD,817.75
+France,2018,11.54,Female,CVD,545.13
+France,2019,11.41,Male,CVD,818.94
+France,2019,11.41,Female,CVD,550.4
+Germany,1990,20.56,Male,CVD,905.9
+Germany,1990,20.56,Female,CVD,657.76
+Germany,1995,18.64,Male,CVD,769.33
+Germany,1995,18.64,Female,CVD,586.7
+Germany,2000,16.44,Male,CVD,671.81
+Germany,2000,16.44,Female,CVD,501.87
+Germany,2005,15.08,Male,CVD,604.86
+Germany,2005,15.08,Female,CVD,448.23
+Germany,2010,16.09,Male,CVD,566.4
+Germany,2010,16.09,Female,CVD,398.44
+Germany,2011,15.58,Male,CVD,546.82
+Germany,2011,15.58,Female,CVD,383.4
+Germany,2012,13.81,Male,CVD,510.34
+Germany,2012,13.81,Female,CVD,355.8
+Germany,2013,13.58,Male,CVD,476.7
+Germany,2013,13.58,Female,CVD,330.34
+Germany,2014,12.25,Male,CVD,443.48
+Germany,2014,12.25,Female,CVD,307.95
+Germany,2015,12.73,Male,CVD,427.09
+Germany,2015,12.73,Female,CVD,299.16
+Germany,2016,11.78,Male,CVD,431.67
+Germany,2016,11.78,Female,CVD,299.51
+Germany,2017,11.88,Male,CVD,419.35
+Germany,2017,11.88,Female,CVD,288.11
+Germany,2018,11.92,Male,CVD,412.61
+Germany,2018,11.92,Female,CVD,282.38
+Germany,2019,11.81,Male,CVD,411.11
+Germany,2019,11.81,Female,CVD,280.14
+India,1990,71.5,Male,CVD,132.72
+India,1990,71.5,Female,CVD,139.71
+India,1995,65.62,Male,CVD,128.52
+India,1995,65.62,Female,CVD,135.36
+India,2000,70.48,Male,CVD,128.06
+India,2000,70.48,Female,CVD,134.01
+India,2005,70.81,Male,CVD,131.89
+India,2005,70.81,Female,CVD,136.25
+India,2010,76.68,Male,CVD,135.08
+India,2010,76.68,Female,CVD,137.17
+India,2011,80,Male,CVD,138.82
+India,2011,80,Female,CVD,139.4
+India,2012,86.38,Male,CVD,141.99
+India,2012,86.38,Female,CVD,142.53
+India,2013,89.45,Male,CVD,65.03
+India,2013,89.45,Female,CVD,25.96
+India,2014,95.24,Male,CVD,63.6
+India,2014,95.24,Female,CVD,27.52
+India,2015,88.45,Male,CVD,62.11
+India,2015,88.45,Female,CVD,30.16
+India,2016,92.23,Male,CVD,61.29
+India,2016,92.23,Female,CVD,32.82
+India,2017,81.81,Male,CVD,57.84
+India,2017,81.81,Female,CVD,34.92
+India,2018,83.04,Male,CVD,55.73
+India,2018,83.04,Female,CVD,34.87
+India,2019,83.2,Male,CVD,52.87
+India,2019,83.2,Female,CVD,33.8
+Japan,1990,13.11,Male,CVD,49.94
+Japan,1990,13.11,Female,CVD,32.42
+Japan,1995,12.74,Male,CVD,47.21
+Japan,1995,12.74,Female,CVD,31.55
+Japan,2000,12.79,Male,CVD,45.64
+Japan,2000,12.79,Female,CVD,31.54
+Japan,2005,12.06,Male,CVD,45.86
+Japan,2005,12.06,Female,CVD,31.81
+Japan,2010,11.53,Male,CVD,44.71
+Japan,2010,11.53,Female,CVD,31.73
+Japan,2011,12.68,Male,CVD,44.3
+Japan,2011,12.68,Female,CVD,31.98
+Japan,2012,13.11,Male,CVD,44.02
+Japan,2012,13.11,Female,CVD,32.08
+Japan,2013,13.37,Male,CVD,95.07
+Japan,2013,13.37,Female,CVD,113.56
+Japan,2014,13.71,Male,CVD,102.95
+Japan,2014,13.71,Female,CVD,124.23
+Japan,2015,13.41,Male,CVD,112.17
+Japan,2015,13.41,Female,CVD,130.85
+Japan,2016,13.36,Male,CVD,121.24
+Japan,2016,13.36,Female,CVD,136.2
+Japan,2017,13.57,Male,CVD,139.83
+Japan,2017,13.57,Female,CVD,149.89
+Japan,2018,13.48,Male,CVD,140.98
+Japan,2018,13.48,Female,CVD,149.55
+Japan,2019,13.47,Male,CVD,136.83
+Japan,2019,13.47,Female,CVD,144.74
+Mexico,1990,32.68,Male,CVD,169.19
+Mexico,1990,32.68,Female,CVD,125.63
+Mexico,1995,31.76,Male,CVD,168.68
+Mexico,1995,31.76,Female,CVD,127.83
+Mexico,2000,30.41,Male,CVD,158.74
+Mexico,2000,30.41,Female,CVD,122.29
+Mexico,2005,23.14,Male,CVD,138.32
+Mexico,2005,23.14,Female,CVD,108.3
+Mexico,2010,21.62,Male,CVD,113.06
+Mexico,2010,21.62,Female,CVD,91.74
+Mexico,2011,24.72,Male,CVD,108.43
+Mexico,2011,24.72,Female,CVD,89.23
+Mexico,2012,22.81,Male,CVD,99.82
+Mexico,2012,22.81,Female,CVD,82.56
+Mexico,2013,23.61,Male,CVD,92.81
+Mexico,2013,23.61,Female,CVD,77.68
+Mexico,2014,22.04,Male,CVD,85.37
+Mexico,2014,22.04,Female,CVD,73.14
+Mexico,2015,22.11,Male,CVD,83.04
+Mexico,2015,22.11,Female,CVD,72.26
+Mexico,2016,21.27,Male,CVD,83.72
+Mexico,2016,21.27,Female,CVD,72.56
+Mexico,2017,20.42,Male,CVD,81.25
+Mexico,2017,20.42,Female,CVD,71.89
+Mexico,2018,20.39,Male,CVD,79.7
+Mexico,2018,20.39,Female,CVD,71.27
+Mexico,2019,20.12,Male,CVD,79.7
+Mexico,2019,20.12,Female,CVD,71.75
+New Zealand,1990,6.95,Male,CVD,124.4
+New Zealand,1990,6.95,Female,CVD,59.59
+New Zealand,1995,6.89,Male,CVD,113.46
+New Zealand,1995,6.89,Female,CVD,65.23
+New Zealand,2000,6.77,Male,CVD,97.37
+New Zealand,2000,6.77,Female,CVD,65.79
+New Zealand,2005,6.35,Male,CVD,91.82
+New Zealand,2005,6.35,Female,CVD,67.8
+New Zealand,2010,6.3,Male,CVD,59.69
+New Zealand,2010,6.3,Female,CVD,48.02
+New Zealand,2011,6.11,Male,CVD,56.96
+New Zealand,2011,6.11,Female,CVD,46.25
+New Zealand,2012,6.23,Male,CVD,54.61
+New Zealand,2012,6.23,Female,CVD,44.96
+New Zealand,2013,6.26,Male,CVD,51.57
+New Zealand,2013,6.26,Female,CVD,43.54
+New Zealand,2014,6.05,Male,CVD,50.24
+New Zealand,2014,6.05,Female,CVD,42.69
+New Zealand,2015,6.01,Male,CVD,44.69
+New Zealand,2015,6.01,Female,CVD,38.67
+New Zealand,2016,6.08,Male,CVD,42
+New Zealand,2016,6.08,Female,CVD,36.52
+New Zealand,2017,5.98,Male,CVD,37.97
+New Zealand,2017,5.98,Female,CVD,32.75
+New Zealand,2018,6.03,Male,CVD,34.33
+New Zealand,2018,6.03,Female,CVD,29.37
+New Zealand,2019,6.05,Male,CVD,32.12
+New Zealand,2019,6.05,Female,CVD,27.6
+Norway,1990,11.76,Male,CVD,57.3
+Norway,1990,11.76,Female,CVD,37.59
+Norway,1995,10.68,Male,CVD,57.22
+Norway,1995,10.68,Female,CVD,44.93
+Norway,2000,10.09,Male,CVD,52.43
+Norway,2000,10.09,Female,CVD,47.12
+Norway,2005,8.17,Male,CVD,47.73
+Norway,2005,8.17,Female,CVD,47.48
+Norway,2010,8.1,Male,CVD,32.02
+Norway,2010,8.1,Female,CVD,33.5
+Norway,2011,9.05,Male,CVD,30.7
+Norway,2011,9.05,Female,CVD,32.47
+Norway,2012,7.56,Male,CVD,30.09
+Norway,2012,7.56,Female,CVD,31.45
+Norway,2013,7.28,Male,CVD,29.9
+Norway,2013,7.28,Female,CVD,31.1
+Norway,2014,7.45,Male,CVD,29.21
+Norway,2014,7.45,Female,CVD,30.41
+Norway,2015,7.01,Male,CVD,27.95
+Norway,2015,7.01,Female,CVD,29.64
+Norway,2016,6.59,Male,CVD,26.45
+Norway,2016,6.59,Female,CVD,27.81
+Norway,2017,6.65,Male,CVD,24.34
+Norway,2017,6.65,Female,CVD,25.77
+Norway,2018,6.7,Male,CVD,22.38
+Norway,2018,6.7,Female,CVD,23.62
+Norway,2019,6.64,Male,CVD,21.33
+Norway,2019,6.64,Female,CVD,22.66
+Pakistan,1990,60.74,Male,CVD,465.17
+Pakistan,1990,60.74,Female,CVD,306.8
+Pakistan,1995,53.46,Male,CVD,419.04
+Pakistan,1995,53.46,Female,CVD,286.2
+Pakistan,2000,57.72,Male,CVD,349.77
+Pakistan,2000,57.72,Female,CVD,241.94
+Pakistan,2005,55.21,Male,CVD,294.77
+Pakistan,2005,55.21,Female,CVD,203.25
+Pakistan,2010,59.61,Male,CVD,180.6
+Pakistan,2010,59.61,Female,CVD,122.17
+Pakistan,2011,59.99,Male,CVD,166.48
+Pakistan,2011,59.99,Female,CVD,113.12
+Pakistan,2012,65.41,Male,CVD,160.09
+Pakistan,2012,65.41,Female,CVD,107.36
+Pakistan,2013,66.85,Male,CVD,154.52
+Pakistan,2013,66.85,Female,CVD,103.14
+Pakistan,2014,70.94,Male,CVD,149.56
+Pakistan,2014,70.94,Female,CVD,100.53
+Pakistan,2015,66.93,Male,CVD,139.5
+Pakistan,2015,66.93,Female,CVD,93.69
+Pakistan,2016,68.72,Male,CVD,132.14
+Pakistan,2016,68.72,Female,CVD,87.43
+Pakistan,2017,61.75,Male,CVD,120.93
+Pakistan,2017,61.75,Female,CVD,79.22
+Pakistan,2018,62.4,Male,CVD,109.63
+Pakistan,2018,62.4,Female,CVD,71.64
+Pakistan,2019,62.57,Male,CVD,103.74
+Pakistan,2019,62.57,Female,CVD,68.33
+South Africa,1990,28.76,Male,CVD,56.51
+South Africa,1990,28.76,Female,CVD,37.34
+South Africa,1995,29.18,Male,CVD,56.64
+South Africa,1995,29.18,Female,CVD,37.04
+South Africa,2000,28.69,Male,CVD,56.28
+South Africa,2000,28.69,Female,CVD,36.26
+South Africa,2005,27.03,Male,CVD,54.66
+South Africa,2005,27.03,Female,CVD,35.35
+South Africa,2010,29.4,Male,CVD,51.85
+South Africa,2010,29.4,Female,CVD,33.35
+South Africa,2011,29.45,Male,CVD,49.18
+South Africa,2011,29.45,Female,CVD,31.74
+South Africa,2012,29.17,Male,CVD,49.18
+South Africa,2012,29.17,Female,CVD,31.64
+South Africa,2013,28.77,Male,CVD,46.76
+South Africa,2013,28.77,Female,CVD,41.72
+South Africa,2014,29,Male,CVD,61.81
+South Africa,2014,29,Female,CVD,50.61
+South Africa,2015,29.24,Male,CVD,70.74
+South Africa,2015,29.24,Female,CVD,54.23
+South Africa,2016,28.72,Male,CVD,81.42
+South Africa,2016,28.72,Female,CVD,59.93
+South Africa,2017,28.86,Male,CVD,61.83
+South Africa,2017,28.86,Female,CVD,42.33
+South Africa,2018,28.75,Male,CVD,58.83
+South Africa,2018,28.75,Female,CVD,39.7
+South Africa,2019,28.67,Male,CVD,57.42
+South Africa,2019,28.67,Female,CVD,38.54
+Sweden,1990,9.78,Male,CVD,62.01
+Sweden,1990,9.78,Female,CVD,70.38
+Sweden,1995,8.85,Male,CVD,70.48
+Sweden,1995,8.85,Female,CVD,78.89
+Sweden,2000,8.43,Male,CVD,92.79
+Sweden,2000,8.43,Female,CVD,96.23
+Sweden,2005,7.31,Male,CVD,107.74
+Sweden,2005,7.31,Female,CVD,111.77
+Sweden,2010,7.4,Male,CVD,120.49
+Sweden,2010,7.4,Female,CVD,116.81
+Sweden,2011,7.47,Male,CVD,123.71
+Sweden,2011,7.47,Female,CVD,119.02
+Sweden,2012,6.17,Male,CVD,127.01
+Sweden,2012,6.17,Female,CVD,120.7
+Sweden,2013,6.17,Male,CVD,130.09
+Sweden,2013,6.17,Female,CVD,122.7
+Sweden,2014,6.45,Male,CVD,133.15
+Sweden,2014,6.45,Female,CVD,125.34
+Sweden,2015,5.87,Male,CVD,136.13
+Sweden,2015,5.87,Female,CVD,127.94
+Sweden,2016,5.45,Male,CVD,140.2
+Sweden,2016,5.45,Female,CVD,131.96
+Sweden,2017,5.69,Male,CVD,145.43
+Sweden,2017,5.69,Female,CVD,136.87
+Sweden,2018,5.69,Male,CVD,150.67
+Sweden,2018,5.69,Female,CVD,141.95
+Sweden,2019,5.65,Male,CVD,155.25
+Sweden,2019,5.65,Female,CVD,146.11
+Thailand,1990,38.36,Male,CVD,1586.95
+Thailand,1990,38.36,Female,CVD,1497.61
+Thailand,1995,36.12,Male,CVD,1550.23
+Thailand,1995,36.12,Female,CVD,1469.74
+Thailand,2000,34.53,Male,CVD,1471.78
+Thailand,2000,34.53,Female,CVD,1329.16
+Thailand,2005,35.32,Male,CVD,1294.51
+Thailand,2005,35.32,Female,CVD,1096.57
+Thailand,2010,35.42,Male,CVD,1028.54
+Thailand,2010,35.42,Female,CVD,820.5
+Thailand,2011,29.91,Male,CVD,989.61
+Thailand,2011,29.91,Female,CVD,786.67
+Thailand,2012,31.34,Male,CVD,956.13
+Thailand,2012,31.34,Female,CVD,743.05
+Thailand,2013,33.79,Male,CVD,921.8
+Thailand,2013,33.79,Female,CVD,711.62
+Thailand,2014,29.43,Male,CVD,886.91
+Thailand,2014,29.43,Female,CVD,688.03
+Thailand,2015,28.04,Male,CVD,855.09
+Thailand,2015,28.04,Female,CVD,660.75
+Thailand,2016,30.69,Male,CVD,822.17
+Thailand,2016,30.69,Female,CVD,637.25
+Thailand,2017,26.93,Male,CVD,766.27
+Thailand,2017,26.93,Female,CVD,606.39
+Thailand,2018,27.48,Male,CVD,711.94
+Thailand,2018,27.48,Female,CVD,575.69
+Thailand,2019,27.4,Male,CVD,670.21
+Thailand,2019,27.4,Female,CVD,548.87
+Turkmenistan,1990,24.7,Male,CVD,338.99
+Turkmenistan,1990,24.7,Female,CVD,167.22
+Turkmenistan,1995,28.73,Male,CVD,354.75
+Turkmenistan,1995,28.73,Female,CVD,181.38
+Turkmenistan,2000,26.1,Male,CVD,405.31
+Turkmenistan,2000,26.1,Female,CVD,202
+Turkmenistan,2005,30.56,Male,CVD,461.25
+Turkmenistan,2005,30.56,Female,CVD,215.99
+Turkmenistan,2010,28.62,Male,CVD,470.82
+Turkmenistan,2010,28.62,Female,CVD,209.13
+Turkmenistan,2011,27.13,Male,CVD,481.06
+Turkmenistan,2011,27.13,Female,CVD,210.99
+Turkmenistan,2012,26.2,Male,CVD,491.3
+Turkmenistan,2012,26.2,Female,CVD,209.83
+Turkmenistan,2013,27.82,Male,CVD,494.28
+Turkmenistan,2013,27.82,Female,CVD,209.16
+Turkmenistan,2014,27.78,Male,CVD,491.37
+Turkmenistan,2014,27.78,Female,CVD,210.2
+Turkmenistan,2015,28.61,Male,CVD,492.6
+Turkmenistan,2015,28.61,Female,CVD,212.25
+Turkmenistan,2016,27.78,Male,CVD,488.38
+Turkmenistan,2016,27.78,Female,CVD,214.6
+Turkmenistan,2017,26.29,Male,CVD,470.06
+Turkmenistan,2017,26.29,Female,CVD,214.06
+Turkmenistan,2018,26.54,Male,CVD,449.49
+Turkmenistan,2018,26.54,Female,CVD,212.21
+Turkmenistan,2019,26.03,Male,CVD,434.97
+Turkmenistan,2019,26.03,Female,CVD,211.67
+United Kingdom,1990,17.41,Male,CVD,2093.42
+United Kingdom,1990,17.41,Female,CVD,1883.29
+United Kingdom,1995,16.38,Male,CVD,2174.88
+United Kingdom,1995,16.38,Female,CVD,1852.09
+United Kingdom,2000,14.86,Male,CVD,2410.5
+United Kingdom,2000,14.86,Female,CVD,1951.76
+United Kingdom,2005,13.34,Male,CVD,2712.33
+United Kingdom,2005,13.34,Female,CVD,2094.1
+United Kingdom,2010,12.43,Male,CVD,2646.26
+United Kingdom,2010,12.43,Female,CVD,1877.87
+United Kingdom,2011,13,Male,CVD,2667.47
+United Kingdom,2011,13,Female,CVD,1886.7
+United Kingdom,2012,11.43,Male,CVD,2683.16
+United Kingdom,2012,11.43,Female,CVD,1842.63
+United Kingdom,2013,11.42,Male,CVD,2689.27
+United Kingdom,2013,11.42,Female,CVD,1833.87
+United Kingdom,2014,10.89,Male,CVD,2659.88
+United Kingdom,2014,10.89,Female,CVD,1816.4
+United Kingdom,2015,10.37,Male,CVD,2627.49
+United Kingdom,2015,10.37,Female,CVD,1783.52
+United Kingdom,2016,10.21,Male,CVD,2577.82
+United Kingdom,2016,10.21,Female,CVD,1758
+United Kingdom,2017,10.36,Male,CVD,2461.27
+United Kingdom,2017,10.36,Female,CVD,1709.7
+United Kingdom,2018,10.17,Male,CVD,2332.16
+United Kingdom,2018,10.17,Female,CVD,1648.26
+United Kingdom,2019,10.09,Male,CVD,2238.46
+United Kingdom,2019,10.09,Female,CVD,1590.82
+Australia,1990,7.59,Male,Alzheimers_and_other_dementias,56.82
+Australia,1990,7.59,Female,Alzheimers_and_other_dementias,126.54
+Australia,1995,7.48,Male,Alzheimers_and_other_dementias,64.9
+Australia,1995,7.48,Female,Alzheimers_and_other_dementias,148.55
+Australia,2000,7.36,Male,Alzheimers_and_other_dementias,77.91
+Australia,2000,7.36,Female,Alzheimers_and_other_dementias,177.48
+Australia,2005,6.9,Male,Alzheimers_and_other_dementias,92.07
+Australia,2005,6.9,Female,Alzheimers_and_other_dementias,206.57
+Australia,2010,6.79,Male,Alzheimers_and_other_dementias,107.07
+Australia,2010,6.79,Female,Alzheimers_and_other_dementias,225.83
+Australia,2011,6.71,Male,Alzheimers_and_other_dementias,109.23
+Australia,2011,6.71,Female,Alzheimers_and_other_dementias,229.71
+Australia,2012,7,Male,Alzheimers_and_other_dementias,111.74
+Australia,2012,7,Female,Alzheimers_and_other_dementias,232.97
+Australia,2013,6.96,Male,Alzheimers_and_other_dementias,114.76
+Australia,2013,6.96,Female,Alzheimers_and_other_dementias,236.54
+Australia,2014,6.88,Male,Alzheimers_and_other_dementias,117.68
+Australia,2014,6.88,Female,Alzheimers_and_other_dementias,240.22
+Australia,2015,6.85,Male,Alzheimers_and_other_dementias,120.97
+Australia,2015,6.85,Female,Alzheimers_and_other_dementias,243.76
+Australia,2016,6.82,Male,Alzheimers_and_other_dementias,124.35
+Australia,2016,6.82,Female,Alzheimers_and_other_dementias,246.93
+Australia,2017,6.67,Male,Alzheimers_and_other_dementias,128.1
+Australia,2017,6.67,Female,Alzheimers_and_other_dementias,250.41
+Australia,2018,6.74,Male,Alzheimers_and_other_dementias,131.25
+Australia,2018,6.74,Female,Alzheimers_and_other_dementias,253.92
+Australia,2019,6.75,Male,Alzheimers_and_other_dementias,135.11
+Australia,2019,6.75,Female,Alzheimers_and_other_dementias,259.23
+Bangladesh,1990,52.91,Male,Alzheimers_and_other_dementias,18.58
+Bangladesh,1990,52.91,Female,Alzheimers_and_other_dementias,10.68
+Bangladesh,1995,51.64,Male,Alzheimers_and_other_dementias,17.89
+Bangladesh,1995,51.64,Female,Alzheimers_and_other_dementias,11.54
+Bangladesh,2000,53.75,Male,Alzheimers_and_other_dementias,18.56
+Bangladesh,2000,53.75,Female,Alzheimers_and_other_dementias,12.71
+Bangladesh,2005,55.06,Male,Alzheimers_and_other_dementias,20.12
+Bangladesh,2005,55.06,Female,Alzheimers_and_other_dementias,14.22
+Bangladesh,2010,56.42,Male,Alzheimers_and_other_dementias,26.17
+Bangladesh,2010,56.42,Female,Alzheimers_and_other_dementias,19.64
+Bangladesh,2011,60.54,Male,Alzheimers_and_other_dementias,27.46
+Bangladesh,2011,60.54,Female,Alzheimers_and_other_dementias,20.8
+Bangladesh,2012,68.94,Male,Alzheimers_and_other_dementias,29
+Bangladesh,2012,68.94,Female,Alzheimers_and_other_dementias,22.13
+Bangladesh,2013,66.43,Male,Alzheimers_and_other_dementias,31.14
+Bangladesh,2013,66.43,Female,Alzheimers_and_other_dementias,23.85
+Bangladesh,2014,73.27,Male,Alzheimers_and_other_dementias,33.51
+Bangladesh,2014,73.27,Female,Alzheimers_and_other_dementias,25.66
+Bangladesh,2015,68.97,Male,Alzheimers_and_other_dementias,35.52
+Bangladesh,2015,68.97,Female,Alzheimers_and_other_dementias,27.57
+Bangladesh,2016,67.77,Male,Alzheimers_and_other_dementias,37.79
+Bangladesh,2016,67.77,Female,Alzheimers_and_other_dementias,29.55
+Bangladesh,2017,62.75,Male,Alzheimers_and_other_dementias,40.21
+Bangladesh,2017,62.75,Female,Alzheimers_and_other_dementias,31.87
+Bangladesh,2018,63.28,Male,Alzheimers_and_other_dementias,42.26
+Bangladesh,2018,63.28,Female,Alzheimers_and_other_dementias,33.81
+Bangladesh,2019,63.43,Male,Alzheimers_and_other_dementias,44.33
+Bangladesh,2019,63.43,Female,Alzheimers_and_other_dementias,35.87
+Brazil,1990,14.63,Male,Alzheimers_and_other_dementias,43.29
+Brazil,1990,14.63,Female,Alzheimers_and_other_dementias,61.46
+Brazil,1995,14.48,Male,Alzheimers_and_other_dementias,48.32
+Brazil,1995,14.48,Female,Alzheimers_and_other_dementias,70.72
+Brazil,2000,14.59,Male,Alzheimers_and_other_dementias,55.83
+Brazil,2000,14.59,Female,Alzheimers_and_other_dementias,83.9
+Brazil,2005,14.57,Male,Alzheimers_and_other_dementias,64.92
+Brazil,2005,14.57,Female,Alzheimers_and_other_dementias,99.8
+Brazil,2010,14.08,Male,Alzheimers_and_other_dementias,78.27
+Brazil,2010,14.08,Female,Alzheimers_and_other_dementias,120.79
+Brazil,2011,14.69,Male,Alzheimers_and_other_dementias,81.23
+Brazil,2011,14.69,Female,Alzheimers_and_other_dementias,125.06
+Brazil,2012,13.79,Male,Alzheimers_and_other_dementias,84.29
+Brazil,2012,13.79,Female,Alzheimers_and_other_dementias,129.15
+Brazil,2013,13.16,Male,Alzheimers_and_other_dementias,87.49
+Brazil,2013,13.16,Female,Alzheimers_and_other_dementias,133.37
+Brazil,2014,13,Male,Alzheimers_and_other_dementias,90.81
+Brazil,2014,13,Female,Alzheimers_and_other_dementias,137.73
+Brazil,2015,11.69,Male,Alzheimers_and_other_dementias,94.17
+Brazil,2015,11.69,Female,Alzheimers_and_other_dementias,142.59
+Brazil,2016,11.42,Male,Alzheimers_and_other_dementias,97.96
+Brazil,2016,11.42,Female,Alzheimers_and_other_dementias,148.26
+Brazil,2017,11.67,Male,Alzheimers_and_other_dementias,101.84
+Brazil,2017,11.67,Female,Alzheimers_and_other_dementias,153.97
+Brazil,2018,11.63,Male,Alzheimers_and_other_dementias,105.91
+Brazil,2018,11.63,Female,Alzheimers_and_other_dementias,160.3
+Brazil,2019,11.65,Male,Alzheimers_and_other_dementias,109.85
+Brazil,2019,11.65,Female,Alzheimers_and_other_dementias,166.8
+Canada,1990,10.09,Male,Alzheimers_and_other_dementias,80.5
+Canada,1990,10.09,Female,Alzheimers_and_other_dementias,141.48
+Canada,1995,9.77,Male,Alzheimers_and_other_dementias,93.33
+Canada,1995,9.77,Female,Alzheimers_and_other_dementias,167.36
+Canada,2000,9.2,Male,Alzheimers_and_other_dementias,100.52
+Canada,2000,9.2,Female,Alzheimers_and_other_dementias,184.14
+Canada,2005,9.02,Male,Alzheimers_and_other_dementias,116.71
+Canada,2005,9.02,Female,Alzheimers_and_other_dementias,205.49
+Canada,2010,7.88,Male,Alzheimers_and_other_dementias,137.95
+Canada,2010,7.88,Female,Alzheimers_and_other_dementias,226.17
+Canada,2011,7.34,Male,Alzheimers_and_other_dementias,143.53
+Canada,2011,7.34,Female,Alzheimers_and_other_dementias,231.09
+Canada,2012,7.6,Male,Alzheimers_and_other_dementias,149.46
+Canada,2012,7.6,Female,Alzheimers_and_other_dementias,236.37
+Canada,2013,7.28,Male,Alzheimers_and_other_dementias,155.3
+Canada,2013,7.28,Female,Alzheimers_and_other_dementias,241.99
+Canada,2014,7.49,Male,Alzheimers_and_other_dementias,161.13
+Canada,2014,7.49,Female,Alzheimers_and_other_dementias,247.56
+Canada,2015,7.28,Male,Alzheimers_and_other_dementias,167.57
+Canada,2015,7.28,Female,Alzheimers_and_other_dementias,252.96
+Canada,2016,6.21,Male,Alzheimers_and_other_dementias,174.54
+Canada,2016,6.21,Female,Alzheimers_and_other_dementias,260.43
+Canada,2017,7.28,Male,Alzheimers_and_other_dementias,181.51
+Canada,2017,7.28,Female,Alzheimers_and_other_dementias,268.21
+Canada,2018,7.08,Male,Alzheimers_and_other_dementias,187.32
+Canada,2018,7.08,Female,Alzheimers_and_other_dementias,275.36
+Canada,2019,7.1,Male,Alzheimers_and_other_dementias,192.33
+Canada,2019,7.1,Female,Alzheimers_and_other_dementias,281.64
+China,1990,48.88,Male,Alzheimers_and_other_dementias,41.69
+China,1990,48.88,Female,Alzheimers_and_other_dementias,41.23
+China,1995,49.09,Male,Alzheimers_and_other_dementias,47.01
+China,1995,49.09,Female,Alzheimers_and_other_dementias,49.64
+China,2000,50.76,Male,Alzheimers_and_other_dementias,56.53
+China,2000,50.76,Female,Alzheimers_and_other_dementias,66.36
+China,2005,51.55,Male,Alzheimers_and_other_dementias,64.31
+China,2005,51.55,Female,Alzheimers_and_other_dementias,73.93
+China,2010,53.29,Male,Alzheimers_and_other_dementias,82.01
+China,2010,53.29,Female,Alzheimers_and_other_dementias,92.35
+China,2011,58.41,Male,Alzheimers_and_other_dementias,86.23
+China,2011,58.41,Female,Alzheimers_and_other_dementias,97.18
+China,2012,58.91,Male,Alzheimers_and_other_dementias,91.06
+China,2012,58.91,Female,Alzheimers_and_other_dementias,102.94
+China,2013,63.29,Male,Alzheimers_and_other_dementias,95.97
+China,2013,63.29,Female,Alzheimers_and_other_dementias,108.84
+China,2014,60.27,Male,Alzheimers_and_other_dementias,101.15
+China,2014,60.27,Female,Alzheimers_and_other_dementias,116.07
+China,2015,56.2,Male,Alzheimers_and_other_dementias,105.85
+China,2015,56.2,Female,Alzheimers_and_other_dementias,122.24
+China,2016,51.59,Male,Alzheimers_and_other_dementias,109.65
+China,2016,51.59,Female,Alzheimers_and_other_dementias,128.66
+China,2017,49.93,Male,Alzheimers_and_other_dementias,113.39
+China,2017,49.93,Female,Alzheimers_and_other_dementias,134.86
+China,2018,49.28,Male,Alzheimers_and_other_dementias,116.54
+China,2018,49.28,Female,Alzheimers_and_other_dementias,140.44
+China,2019,47.67,Male,Alzheimers_and_other_dementias,120.69
+China,2019,47.67,Female,Alzheimers_and_other_dementias,147.75
+Egypt,1990,66.64,Male,Alzheimers_and_other_dementias,29.75
+Egypt,1990,66.64,Female,Alzheimers_and_other_dementias,27.92
+Egypt,1995,74.62,Male,Alzheimers_and_other_dementias,32.67
+Egypt,1995,74.62,Female,Alzheimers_and_other_dementias,30.05
+Egypt,2000,69.85,Male,Alzheimers_and_other_dementias,36.91
+Egypt,2000,69.85,Female,Alzheimers_and_other_dementias,33.11
+Egypt,2005,69.66,Male,Alzheimers_and_other_dementias,42.96
+Egypt,2005,69.66,Female,Alzheimers_and_other_dementias,33.55
+Egypt,2010,78.51,Male,Alzheimers_and_other_dementias,46.77
+Egypt,2010,78.51,Female,Alzheimers_and_other_dementias,36.3
+Egypt,2011,69.78,Male,Alzheimers_and_other_dementias,47.79
+Egypt,2011,69.78,Female,Alzheimers_and_other_dementias,37.26
+Egypt,2012,69.7,Male,Alzheimers_and_other_dementias,48.46
+Egypt,2012,69.7,Female,Alzheimers_and_other_dementias,38.45
+Egypt,2013,74.76,Male,Alzheimers_and_other_dementias,49.12
+Egypt,2013,74.76,Female,Alzheimers_and_other_dementias,39.35
+Egypt,2014,72.02,Male,Alzheimers_and_other_dementias,50.13
+Egypt,2014,72.02,Female,Alzheimers_and_other_dementias,40.58
+Egypt,2015,73.13,Male,Alzheimers_and_other_dementias,51.27
+Egypt,2015,73.13,Female,Alzheimers_and_other_dementias,41.67
+Egypt,2016,20.71,Male,Alzheimers_and_other_dementias,52.31
+Egypt,2016,20.71,Female,Alzheimers_and_other_dementias,42.82
+Egypt,2017,66.96,Male,Alzheimers_and_other_dementias,53.46
+Egypt,2017,66.96,Female,Alzheimers_and_other_dementias,43.84
+Egypt,2018,68.47,Male,Alzheimers_and_other_dementias,54.96
+Egypt,2018,68.47,Female,Alzheimers_and_other_dementias,45.05
+Egypt,2019,67.89,Male,Alzheimers_and_other_dementias,56.62
+Egypt,2019,67.89,Female,Alzheimers_and_other_dementias,46.39
+Finland,1990,8.8,Male,Alzheimers_and_other_dementias,87.05
+Finland,1990,8.8,Female,Alzheimers_and_other_dementias,190.54
+Finland,1995,8.14,Male,Alzheimers_and_other_dementias,95.73
+Finland,1995,8.14,Female,Alzheimers_and_other_dementias,218.89
+Finland,2000,7.51,Male,Alzheimers_and_other_dementias,113.9
+Finland,2000,7.51,Female,Alzheimers_and_other_dementias,251.52
+Finland,2005,7.11,Male,Alzheimers_and_other_dementias,135.37
+Finland,2005,7.11,Female,Alzheimers_and_other_dementias,282.64
+Finland,2010,7.21,Male,Alzheimers_and_other_dementias,169.39
+Finland,2010,7.21,Female,Alzheimers_and_other_dementias,325.14
+Finland,2011,7.02,Male,Alzheimers_and_other_dementias,177.99
+Finland,2011,7.02,Female,Alzheimers_and_other_dementias,335.6
+Finland,2012,6.36,Male,Alzheimers_and_other_dementias,185.34
+Finland,2012,6.36,Female,Alzheimers_and_other_dementias,345.01
+Finland,2013,5.98,Male,Alzheimers_and_other_dementias,193.4
+Finland,2013,5.98,Female,Alzheimers_and_other_dementias,354.68
+Finland,2014,6.37,Male,Alzheimers_and_other_dementias,201.5
+Finland,2014,6.37,Female,Alzheimers_and_other_dementias,364.08
+Finland,2015,5.63,Male,Alzheimers_and_other_dementias,207.91
+Finland,2015,5.63,Female,Alzheimers_and_other_dementias,372.1
+Finland,2016,5.59,Male,Alzheimers_and_other_dementias,216.39
+Finland,2016,5.59,Female,Alzheimers_and_other_dementias,379.75
+Finland,2017,5.26,Male,Alzheimers_and_other_dementias,221.98
+Finland,2017,5.26,Female,Alzheimers_and_other_dementias,385.41
+Finland,2018,5.6,Male,Alzheimers_and_other_dementias,228.57
+Finland,2018,5.6,Female,Alzheimers_and_other_dementias,392.28
+Finland,2019,5.57,Male,Alzheimers_and_other_dementias,235.5
+Finland,2019,5.57,Female,Alzheimers_and_other_dementias,400.6
+France,1990,18.55,Male,Alzheimers_and_other_dementias,74.28
+France,1990,18.55,Female,Alzheimers_and_other_dementias,115.47
+France,1995,17.23,Male,Alzheimers_and_other_dementias,81.47
+France,1995,17.23,Female,Alzheimers_and_other_dementias,133.14
+France,2000,16.08,Male,Alzheimers_and_other_dementias,88.42
+France,2000,16.08,Female,Alzheimers_and_other_dementias,146.49
+France,2005,14.9,Male,Alzheimers_and_other_dementias,101.84
+France,2005,14.9,Female,Alzheimers_and_other_dementias,165.24
+France,2010,15.08,Male,Alzheimers_and_other_dementias,117.09
+France,2010,15.08,Female,Alzheimers_and_other_dementias,188.92
+France,2011,14.99,Male,Alzheimers_and_other_dementias,120.61
+France,2011,14.99,Female,Alzheimers_and_other_dementias,193.84
+France,2012,13.69,Male,Alzheimers_and_other_dementias,125.04
+France,2012,13.69,Female,Alzheimers_and_other_dementias,199.45
+France,2013,13.61,Male,Alzheimers_and_other_dementias,128.74
+France,2013,13.61,Female,Alzheimers_and_other_dementias,204.33
+France,2014,11.59,Male,Alzheimers_and_other_dementias,132.79
+France,2014,11.59,Female,Alzheimers_and_other_dementias,209.41
+France,2015,12.31,Male,Alzheimers_and_other_dementias,137.65
+France,2015,12.31,Female,Alzheimers_and_other_dementias,215.76
+France,2016,11.49,Male,Alzheimers_and_other_dementias,142.23
+France,2016,11.49,Female,Alzheimers_and_other_dementias,222.3
+France,2017,11.43,Male,Alzheimers_and_other_dementias,146.86
+France,2017,11.43,Female,Alzheimers_and_other_dementias,228.93
+France,2018,11.54,Male,Alzheimers_and_other_dementias,150.93
+France,2018,11.54,Female,Alzheimers_and_other_dementias,235.36
+France,2019,11.41,Male,Alzheimers_and_other_dementias,155.01
+France,2019,11.41,Female,Alzheimers_and_other_dementias,240.56
+Germany,1990,20.56,Male,Alzheimers_and_other_dementias,111.54
+Germany,1990,20.56,Female,Alzheimers_and_other_dementias,266.87
+Germany,1995,18.64,Male,Alzheimers_and_other_dementias,116.4
+Germany,1995,18.64,Female,Alzheimers_and_other_dementias,290.92
+Germany,2000,16.44,Male,Alzheimers_and_other_dementias,131.45
+Germany,2000,16.44,Female,Alzheimers_and_other_dementias,327.6
+Germany,2005,15.08,Male,Alzheimers_and_other_dementias,155.12
+Germany,2005,15.08,Female,Alzheimers_and_other_dementias,365.47
+Germany,2010,16.09,Male,Alzheimers_and_other_dementias,190.9
+Germany,2010,16.09,Female,Alzheimers_and_other_dementias,404.72
+Germany,2011,15.58,Male,Alzheimers_and_other_dementias,195.15
+Germany,2011,15.58,Female,Alzheimers_and_other_dementias,413.18
+Germany,2012,13.81,Male,Alzheimers_and_other_dementias,200.98
+Germany,2012,13.81,Female,Alzheimers_and_other_dementias,422.27
+Germany,2013,13.58,Male,Alzheimers_and_other_dementias,207.44
+Germany,2013,13.58,Female,Alzheimers_and_other_dementias,432.17
+Germany,2014,12.25,Male,Alzheimers_and_other_dementias,214.68
+Germany,2014,12.25,Female,Alzheimers_and_other_dementias,445.23
+Germany,2015,12.73,Male,Alzheimers_and_other_dementias,220.71
+Germany,2015,12.73,Female,Alzheimers_and_other_dementias,459.59
+Germany,2016,11.78,Male,Alzheimers_and_other_dementias,231.35
+Germany,2016,11.78,Female,Alzheimers_and_other_dementias,476.68
+Germany,2017,11.88,Male,Alzheimers_and_other_dementias,241.98
+Germany,2017,11.88,Female,Alzheimers_and_other_dementias,489.76
+Germany,2018,11.92,Male,Alzheimers_and_other_dementias,255.62
+Germany,2018,11.92,Female,Alzheimers_and_other_dementias,506.36
+Germany,2019,11.81,Male,Alzheimers_and_other_dementias,269.04
+Germany,2019,11.81,Female,Alzheimers_and_other_dementias,522.7
+India,1990,71.5,Male,Alzheimers_and_other_dementias,15.58
+India,1990,71.5,Female,Alzheimers_and_other_dementias,13.9
+India,1995,65.62,Male,Alzheimers_and_other_dementias,17.51
+India,1995,65.62,Female,Alzheimers_and_other_dementias,16.76
+India,2000,70.48,Male,Alzheimers_and_other_dementias,19.18
+India,2000,70.48,Female,Alzheimers_and_other_dementias,20.38
+India,2005,70.81,Male,Alzheimers_and_other_dementias,21.43
+India,2005,70.81,Female,Alzheimers_and_other_dementias,25.51
+India,2010,76.68,Male,Alzheimers_and_other_dementias,25.04
+India,2010,76.68,Female,Alzheimers_and_other_dementias,31.3
+India,2011,80,Male,Alzheimers_and_other_dementias,25.89
+India,2011,80,Female,Alzheimers_and_other_dementias,32.71
+India,2012,86.38,Male,Alzheimers_and_other_dementias,26.76
+India,2012,86.38,Female,Alzheimers_and_other_dementias,34.04
+India,2013,89.45,Male,Alzheimers_and_other_dementias,27.78
+India,2013,89.45,Female,Alzheimers_and_other_dementias,35.58
+India,2014,95.24,Male,Alzheimers_and_other_dementias,28.4
+India,2014,95.24,Female,Alzheimers_and_other_dementias,36.68
+India,2015,88.45,Male,Alzheimers_and_other_dementias,28.86
+India,2015,88.45,Female,Alzheimers_and_other_dementias,37.89
+India,2016,92.23,Male,Alzheimers_and_other_dementias,29.56
+India,2016,92.23,Female,Alzheimers_and_other_dementias,39.38
+India,2017,81.81,Male,Alzheimers_and_other_dementias,30.68
+India,2017,81.81,Female,Alzheimers_and_other_dementias,41.29
+India,2018,83.04,Male,Alzheimers_and_other_dementias,32.01
+India,2018,83.04,Female,Alzheimers_and_other_dementias,43.18
+India,2019,83.2,Male,Alzheimers_and_other_dementias,33.34
+India,2019,83.2,Female,Alzheimers_and_other_dementias,45.2
+Japan,1990,13.11,Male,Alzheimers_and_other_dementias,88.49
+Japan,1990,13.11,Female,Alzheimers_and_other_dementias,125.39
+Japan,1995,12.74,Male,Alzheimers_and_other_dementias,108.73
+Japan,1995,12.74,Female,Alzheimers_and_other_dementias,165.88
+Japan,2000,12.79,Male,Alzheimers_and_other_dementias,131.45
+Japan,2000,12.79,Female,Alzheimers_and_other_dementias,215.04
+Japan,2005,12.06,Male,Alzheimers_and_other_dementias,160.63
+Japan,2005,12.06,Female,Alzheimers_and_other_dementias,272.23
+Japan,2010,11.53,Male,Alzheimers_and_other_dementias,192.65
+Japan,2010,11.53,Female,Alzheimers_and_other_dementias,322.96
+Japan,2011,12.68,Male,Alzheimers_and_other_dementias,199.74
+Japan,2011,12.68,Female,Alzheimers_and_other_dementias,336.44
+Japan,2012,13.11,Male,Alzheimers_and_other_dementias,207.53
+Japan,2012,13.11,Female,Alzheimers_and_other_dementias,351.24
+Japan,2013,13.37,Male,Alzheimers_and_other_dementias,215.38
+Japan,2013,13.37,Female,Alzheimers_and_other_dementias,366.36
+Japan,2014,13.71,Male,Alzheimers_and_other_dementias,222.79
+Japan,2014,13.71,Female,Alzheimers_and_other_dementias,380.06
+Japan,2015,13.41,Male,Alzheimers_and_other_dementias,230.64
+Japan,2015,13.41,Female,Alzheimers_and_other_dementias,393.71
+Japan,2016,13.36,Male,Alzheimers_and_other_dementias,239.19
+Japan,2016,13.36,Female,Alzheimers_and_other_dementias,406.86
+Japan,2017,13.57,Male,Alzheimers_and_other_dementias,249.49
+Japan,2017,13.57,Female,Alzheimers_and_other_dementias,420.23
+Japan,2018,13.48,Male,Alzheimers_and_other_dementias,259.13
+Japan,2018,13.48,Female,Alzheimers_and_other_dementias,433.16
+Japan,2019,13.47,Male,Alzheimers_and_other_dementias,267.74
+Japan,2019,13.47,Female,Alzheimers_and_other_dementias,445.06
+Mexico,1990,32.68,Male,Alzheimers_and_other_dementias,29.11
+Mexico,1990,32.68,Female,Alzheimers_and_other_dementias,36.81
+Mexico,1995,31.76,Male,Alzheimers_and_other_dementias,31.8
+Mexico,1995,31.76,Female,Alzheimers_and_other_dementias,40.92
+Mexico,2000,30.41,Male,Alzheimers_and_other_dementias,35.03
+Mexico,2000,30.41,Female,Alzheimers_and_other_dementias,46.34
+Mexico,2005,23.14,Male,Alzheimers_and_other_dementias,40
+Mexico,2005,23.14,Female,Alzheimers_and_other_dementias,55.84
+Mexico,2010,21.62,Male,Alzheimers_and_other_dementias,45.69
+Mexico,2010,21.62,Female,Alzheimers_and_other_dementias,65.12
+Mexico,2011,24.72,Male,Alzheimers_and_other_dementias,46.74
+Mexico,2011,24.72,Female,Alzheimers_and_other_dementias,67.07
+Mexico,2012,22.81,Male,Alzheimers_and_other_dementias,47.89
+Mexico,2012,22.81,Female,Alzheimers_and_other_dementias,69.26
+Mexico,2013,23.61,Male,Alzheimers_and_other_dementias,49.14
+Mexico,2013,23.61,Female,Alzheimers_and_other_dementias,71.65
+Mexico,2014,22.04,Male,Alzheimers_and_other_dementias,50.25
+Mexico,2014,22.04,Female,Alzheimers_and_other_dementias,73.88
+Mexico,2015,22.11,Male,Alzheimers_and_other_dementias,51.43
+Mexico,2015,22.11,Female,Alzheimers_and_other_dementias,76.07
+Mexico,2016,21.27,Male,Alzheimers_and_other_dementias,52.73
+Mexico,2016,21.27,Female,Alzheimers_and_other_dementias,78.54
+Mexico,2017,20.42,Male,Alzheimers_and_other_dementias,53.97
+Mexico,2017,20.42,Female,Alzheimers_and_other_dementias,80.87
+Mexico,2018,20.39,Male,Alzheimers_and_other_dementias,55.53
+Mexico,2018,20.39,Female,Alzheimers_and_other_dementias,83.59
+Mexico,2019,20.12,Male,Alzheimers_and_other_dementias,57.32
+Mexico,2019,20.12,Female,Alzheimers_and_other_dementias,86.56
+New Zealand,1990,6.95,Male,Alzheimers_and_other_dementias,69.97
+New Zealand,1990,6.95,Female,Alzheimers_and_other_dementias,145.52
+New Zealand,1995,6.89,Male,Alzheimers_and_other_dementias,75.74
+New Zealand,1995,6.89,Female,Alzheimers_and_other_dementias,160.55
+New Zealand,2000,6.77,Male,Alzheimers_and_other_dementias,86.29
+New Zealand,2000,6.77,Female,Alzheimers_and_other_dementias,175.61
+New Zealand,2005,6.35,Male,Alzheimers_and_other_dementias,99.12
+New Zealand,2005,6.35,Female,Alzheimers_and_other_dementias,191.32
+New Zealand,2010,6.3,Male,Alzheimers_and_other_dementias,115.81
+New Zealand,2010,6.3,Female,Alzheimers_and_other_dementias,208.01
+New Zealand,2011,6.11,Male,Alzheimers_and_other_dementias,120.37
+New Zealand,2011,6.11,Female,Alzheimers_and_other_dementias,213.74
+New Zealand,2012,6.23,Male,Alzheimers_and_other_dementias,125.04
+New Zealand,2012,6.23,Female,Alzheimers_and_other_dementias,219.37
+New Zealand,2013,6.26,Male,Alzheimers_and_other_dementias,129.25
+New Zealand,2013,6.26,Female,Alzheimers_and_other_dementias,225.11
+New Zealand,2014,6.05,Male,Alzheimers_and_other_dementias,132.82
+New Zealand,2014,6.05,Female,Alzheimers_and_other_dementias,230.61
+New Zealand,2015,6.01,Male,Alzheimers_and_other_dementias,134.94
+New Zealand,2015,6.01,Female,Alzheimers_and_other_dementias,234.19
+New Zealand,2016,6.08,Male,Alzheimers_and_other_dementias,136.94
+New Zealand,2016,6.08,Female,Alzheimers_and_other_dementias,237.44
+New Zealand,2017,5.98,Male,Alzheimers_and_other_dementias,139.75
+New Zealand,2017,5.98,Female,Alzheimers_and_other_dementias,242.04
+New Zealand,2018,6.03,Male,Alzheimers_and_other_dementias,141.94
+New Zealand,2018,6.03,Female,Alzheimers_and_other_dementias,245.41
+New Zealand,2019,6.05,Male,Alzheimers_and_other_dementias,144.65
+New Zealand,2019,6.05,Female,Alzheimers_and_other_dementias,249.45
+Norway,1990,11.76,Male,Alzheimers_and_other_dementias,133.38
+Norway,1990,11.76,Female,Alzheimers_and_other_dementias,241.36
+Norway,1995,10.68,Male,Alzheimers_and_other_dementias,134.22
+Norway,1995,10.68,Female,Alzheimers_and_other_dementias,256.65
+Norway,2000,10.09,Male,Alzheimers_and_other_dementias,135.75
+Norway,2000,10.09,Female,Alzheimers_and_other_dementias,264.25
+Norway,2005,8.17,Male,Alzheimers_and_other_dementias,132.18
+Norway,2005,8.17,Female,Alzheimers_and_other_dementias,260.25
+Norway,2010,8.1,Male,Alzheimers_and_other_dementias,131.16
+Norway,2010,8.1,Female,Alzheimers_and_other_dementias,254.57
+Norway,2011,9.05,Male,Alzheimers_and_other_dementias,131.16
+Norway,2011,9.05,Female,Alzheimers_and_other_dementias,254.17
+Norway,2012,7.56,Male,Alzheimers_and_other_dementias,130.37
+Norway,2012,7.56,Female,Alzheimers_and_other_dementias,252.07
+Norway,2013,7.28,Male,Alzheimers_and_other_dementias,130
+Norway,2013,7.28,Female,Alzheimers_and_other_dementias,250.14
+Norway,2014,7.45,Male,Alzheimers_and_other_dementias,129.99
+Norway,2014,7.45,Female,Alzheimers_and_other_dementias,248.57
+Norway,2015,7.01,Male,Alzheimers_and_other_dementias,130.98
+Norway,2015,7.01,Female,Alzheimers_and_other_dementias,247.99
+Norway,2016,6.59,Male,Alzheimers_and_other_dementias,132.5
+Norway,2016,6.59,Female,Alzheimers_and_other_dementias,248.72
+Norway,2017,6.65,Male,Alzheimers_and_other_dementias,135.56
+Norway,2017,6.65,Female,Alzheimers_and_other_dementias,250.33
+Norway,2018,6.7,Male,Alzheimers_and_other_dementias,140.22
+Norway,2018,6.7,Female,Alzheimers_and_other_dementias,253.23
+Norway,2019,6.64,Male,Alzheimers_and_other_dementias,144.48
+Norway,2019,6.64,Female,Alzheimers_and_other_dementias,256.18
+Pakistan,1990,60.74,Male,Alzheimers_and_other_dementias,24.58
+Pakistan,1990,60.74,Female,Alzheimers_and_other_dementias,14.82
+Pakistan,1995,53.46,Male,Alzheimers_and_other_dementias,25.45
+Pakistan,1995,53.46,Female,Alzheimers_and_other_dementias,16.45
+Pakistan,2000,57.72,Male,Alzheimers_and_other_dementias,25.46
+Pakistan,2000,57.72,Female,Alzheimers_and_other_dementias,19.39
+Pakistan,2005,55.21,Male,Alzheimers_and_other_dementias,24.99
+Pakistan,2005,55.21,Female,Alzheimers_and_other_dementias,21.75
+Pakistan,2010,59.61,Male,Alzheimers_and_other_dementias,24.88
+Pakistan,2010,59.61,Female,Alzheimers_and_other_dementias,24.31
+Pakistan,2011,59.99,Male,Alzheimers_and_other_dementias,24.89
+Pakistan,2011,59.99,Female,Alzheimers_and_other_dementias,24.81
+Pakistan,2012,65.41,Male,Alzheimers_and_other_dementias,24.92
+Pakistan,2012,65.41,Female,Alzheimers_and_other_dementias,25.3
+Pakistan,2013,66.85,Male,Alzheimers_and_other_dementias,24.82
+Pakistan,2013,66.85,Female,Alzheimers_and_other_dementias,25.86
+Pakistan,2014,70.94,Male,Alzheimers_and_other_dementias,24.99
+Pakistan,2014,70.94,Female,Alzheimers_and_other_dementias,26.29
+Pakistan,2015,66.93,Male,Alzheimers_and_other_dementias,25.18
+Pakistan,2015,66.93,Female,Alzheimers_and_other_dementias,26.78
+Pakistan,2016,68.72,Male,Alzheimers_and_other_dementias,25.25
+Pakistan,2016,68.72,Female,Alzheimers_and_other_dementias,27.24
+Pakistan,2017,61.75,Male,Alzheimers_and_other_dementias,25.6
+Pakistan,2017,61.75,Female,Alzheimers_and_other_dementias,27.88
+Pakistan,2018,62.4,Male,Alzheimers_and_other_dementias,25.82
+Pakistan,2018,62.4,Female,Alzheimers_and_other_dementias,28.13
+Pakistan,2019,62.57,Male,Alzheimers_and_other_dementias,26.09
+Pakistan,2019,62.57,Female,Alzheimers_and_other_dementias,28.73
+South Africa,1990,28.76,Male,Alzheimers_and_other_dementias,23.69
+South Africa,1990,28.76,Female,Alzheimers_and_other_dementias,55.72
+South Africa,1995,29.18,Male,Alzheimers_and_other_dementias,24.2
+South Africa,1995,29.18,Female,Alzheimers_and_other_dementias,59.43
+South Africa,2000,28.69,Male,Alzheimers_and_other_dementias,24.43
+South Africa,2000,28.69,Female,Alzheimers_and_other_dementias,66.06
+South Africa,2005,27.03,Male,Alzheimers_and_other_dementias,26.51
+South Africa,2005,27.03,Female,Alzheimers_and_other_dementias,73.25
+South Africa,2010,29.4,Male,Alzheimers_and_other_dementias,29.14
+South Africa,2010,29.4,Female,Alzheimers_and_other_dementias,82.94
+South Africa,2011,29.45,Male,Alzheimers_and_other_dementias,29.74
+South Africa,2011,29.45,Female,Alzheimers_and_other_dementias,85.08
+South Africa,2012,29.17,Male,Alzheimers_and_other_dementias,30.3
+South Africa,2012,29.17,Female,Alzheimers_and_other_dementias,86.87
+South Africa,2013,28.77,Male,Alzheimers_and_other_dementias,30.99
+South Africa,2013,28.77,Female,Alzheimers_and_other_dementias,88.81
+South Africa,2014,29,Male,Alzheimers_and_other_dementias,31.77
+South Africa,2014,29,Female,Alzheimers_and_other_dementias,90.81
+South Africa,2015,29.24,Male,Alzheimers_and_other_dementias,32.59
+South Africa,2015,29.24,Female,Alzheimers_and_other_dementias,92.86
+South Africa,2016,28.72,Male,Alzheimers_and_other_dementias,33.45
+South Africa,2016,28.72,Female,Alzheimers_and_other_dementias,95.16
+South Africa,2017,28.86,Male,Alzheimers_and_other_dementias,34.34
+South Africa,2017,28.86,Female,Alzheimers_and_other_dementias,97.24
+South Africa,2018,28.75,Male,Alzheimers_and_other_dementias,35.36
+South Africa,2018,28.75,Female,Alzheimers_and_other_dementias,99.43
+South Africa,2019,28.67,Male,Alzheimers_and_other_dementias,36.39
+South Africa,2019,28.67,Female,Alzheimers_and_other_dementias,101.78
+Sweden,1990,9.78,Male,Alzheimers_and_other_dementias,115.24
+Sweden,1990,9.78,Female,Alzheimers_and_other_dementias,222.97
+Sweden,1995,8.85,Male,Alzheimers_and_other_dementias,124.14
+Sweden,1995,8.85,Female,Alzheimers_and_other_dementias,248.98
+Sweden,2000,8.43,Male,Alzheimers_and_other_dementias,137.68
+Sweden,2000,8.43,Female,Alzheimers_and_other_dementias,278.27
+Sweden,2005,7.31,Male,Alzheimers_and_other_dementias,153.25
+Sweden,2005,7.31,Female,Alzheimers_and_other_dementias,303.43
+Sweden,2010,7.4,Male,Alzheimers_and_other_dementias,163.55
+Sweden,2010,7.4,Female,Alzheimers_and_other_dementias,318.94
+Sweden,2011,7.47,Male,Alzheimers_and_other_dementias,167.05
+Sweden,2011,7.47,Female,Alzheimers_and_other_dementias,323.22
+Sweden,2012,6.17,Male,Alzheimers_and_other_dementias,171.24
+Sweden,2012,6.17,Female,Alzheimers_and_other_dementias,326.07
+Sweden,2013,6.17,Male,Alzheimers_and_other_dementias,174.3
+Sweden,2013,6.17,Female,Alzheimers_and_other_dementias,327.88
+Sweden,2014,6.45,Male,Alzheimers_and_other_dementias,177.55
+Sweden,2014,6.45,Female,Alzheimers_and_other_dementias,329.66
+Sweden,2015,5.87,Male,Alzheimers_and_other_dementias,180.53
+Sweden,2015,5.87,Female,Alzheimers_and_other_dementias,331.35
+Sweden,2016,5.45,Male,Alzheimers_and_other_dementias,182.56
+Sweden,2016,5.45,Female,Alzheimers_and_other_dementias,332.48
+Sweden,2017,5.69,Male,Alzheimers_and_other_dementias,183.22
+Sweden,2017,5.69,Female,Alzheimers_and_other_dementias,330.44
+Sweden,2018,5.69,Male,Alzheimers_and_other_dementias,185.58
+Sweden,2018,5.69,Female,Alzheimers_and_other_dementias,329.63
+Sweden,2019,5.65,Male,Alzheimers_and_other_dementias,188.77
+Sweden,2019,5.65,Female,Alzheimers_and_other_dementias,330.08
+Thailand,1990,38.36,Male,Alzheimers_and_other_dementias,30.27
+Thailand,1990,38.36,Female,Alzheimers_and_other_dementias,33.97
+Thailand,1995,36.12,Male,Alzheimers_and_other_dementias,35.79
+Thailand,1995,36.12,Female,Alzheimers_and_other_dementias,42.61
+Thailand,2000,34.53,Male,Alzheimers_and_other_dementias,41.32
+Thailand,2000,34.53,Female,Alzheimers_and_other_dementias,52.96
+Thailand,2005,35.32,Male,Alzheimers_and_other_dementias,51.36
+Thailand,2005,35.32,Female,Alzheimers_and_other_dementias,68.84
+Thailand,2010,35.42,Male,Alzheimers_and_other_dementias,62.43
+Thailand,2010,35.42,Female,Alzheimers_and_other_dementias,86.65
+Thailand,2011,29.91,Male,Alzheimers_and_other_dementias,67.48
+Thailand,2011,29.91,Female,Alzheimers_and_other_dementias,93.52
+Thailand,2012,31.34,Male,Alzheimers_and_other_dementias,72.22
+Thailand,2012,31.34,Female,Alzheimers_and_other_dementias,100.7
+Thailand,2013,33.79,Male,Alzheimers_and_other_dementias,76.69
+Thailand,2013,33.79,Female,Alzheimers_and_other_dementias,107.97
+Thailand,2014,29.43,Male,Alzheimers_and_other_dementias,81.6
+Thailand,2014,29.43,Female,Alzheimers_and_other_dementias,116.01
+Thailand,2015,28.04,Male,Alzheimers_and_other_dementias,86.39
+Thailand,2015,28.04,Female,Alzheimers_and_other_dementias,124.43
+Thailand,2016,30.69,Male,Alzheimers_and_other_dementias,91.63
+Thailand,2016,30.69,Female,Alzheimers_and_other_dementias,132.59
+Thailand,2017,26.93,Male,Alzheimers_and_other_dementias,97.07
+Thailand,2017,26.93,Female,Alzheimers_and_other_dementias,141.05
+Thailand,2018,27.48,Male,Alzheimers_and_other_dementias,103.11
+Thailand,2018,27.48,Female,Alzheimers_and_other_dementias,150.29
+Thailand,2019,27.4,Male,Alzheimers_and_other_dementias,109.49
+Thailand,2019,27.4,Female,Alzheimers_and_other_dementias,160.54
+Turkmenistan,1990,24.7,Male,Alzheimers_and_other_dementias,19.48
+Turkmenistan,1990,24.7,Female,Alzheimers_and_other_dementias,28.04
+Turkmenistan,1995,28.73,Male,Alzheimers_and_other_dementias,18.07
+Turkmenistan,1995,28.73,Female,Alzheimers_and_other_dementias,29.38
+Turkmenistan,2000,26.1,Male,Alzheimers_and_other_dementias,18.5
+Turkmenistan,2000,26.1,Female,Alzheimers_and_other_dementias,32.63
+Turkmenistan,2005,30.56,Male,Alzheimers_and_other_dementias,19.58
+Turkmenistan,2005,30.56,Female,Alzheimers_and_other_dementias,36.05
+Turkmenistan,2010,28.62,Male,Alzheimers_and_other_dementias,21.68
+Turkmenistan,2010,28.62,Female,Alzheimers_and_other_dementias,42.76
+Turkmenistan,2011,27.13,Male,Alzheimers_and_other_dementias,22.39
+Turkmenistan,2011,27.13,Female,Alzheimers_and_other_dementias,44.47
+Turkmenistan,2012,26.2,Male,Alzheimers_and_other_dementias,23.16
+Turkmenistan,2012,26.2,Female,Alzheimers_and_other_dementias,46.21
+Turkmenistan,2013,27.82,Male,Alzheimers_and_other_dementias,24.11
+Turkmenistan,2013,27.82,Female,Alzheimers_and_other_dementias,48.21
+Turkmenistan,2014,27.78,Male,Alzheimers_and_other_dementias,24.87
+Turkmenistan,2014,27.78,Female,Alzheimers_and_other_dementias,50.04
+Turkmenistan,2015,28.61,Male,Alzheimers_and_other_dementias,25.69
+Turkmenistan,2015,28.61,Female,Alzheimers_and_other_dementias,52.23
+Turkmenistan,2016,27.78,Male,Alzheimers_and_other_dementias,26.54
+Turkmenistan,2016,27.78,Female,Alzheimers_and_other_dementias,54.33
+Turkmenistan,2017,26.29,Male,Alzheimers_and_other_dementias,27.34
+Turkmenistan,2017,26.29,Female,Alzheimers_and_other_dementias,56.99
+Turkmenistan,2018,26.54,Male,Alzheimers_and_other_dementias,28.14
+Turkmenistan,2018,26.54,Female,Alzheimers_and_other_dementias,58.88
+Turkmenistan,2019,26.03,Male,Alzheimers_and_other_dementias,28.98
+Turkmenistan,2019,26.03,Female,Alzheimers_and_other_dementias,60.33
+United Kingdom,1990,17.41,Male,Alzheimers_and_other_dementias,99.53
+United Kingdom,1990,17.41,Female,Alzheimers_and_other_dementias,196.67
+United Kingdom,1995,16.38,Male,Alzheimers_and_other_dementias,106.06
+United Kingdom,1995,16.38,Female,Alzheimers_and_other_dementias,215.85
+United Kingdom,2000,14.86,Male,Alzheimers_and_other_dementias,114.16
+United Kingdom,2000,14.86,Female,Alzheimers_and_other_dementias,225.44
+United Kingdom,2005,13.34,Male,Alzheimers_and_other_dementias,131.32
+United Kingdom,2005,13.34,Female,Alzheimers_and_other_dementias,248.88
+United Kingdom,2010,12.43,Male,Alzheimers_and_other_dementias,144.25
+United Kingdom,2010,12.43,Female,Alzheimers_and_other_dementias,264.98
+United Kingdom,2011,13,Male,Alzheimers_and_other_dementias,148.3
+United Kingdom,2011,13,Female,Alzheimers_and_other_dementias,267.78
+United Kingdom,2012,11.43,Male,Alzheimers_and_other_dementias,153.86
+United Kingdom,2012,11.43,Female,Alzheimers_and_other_dementias,271.46
+United Kingdom,2013,11.42,Male,Alzheimers_and_other_dementias,159.76
+United Kingdom,2013,11.42,Female,Alzheimers_and_other_dementias,274.22
+United Kingdom,2014,10.89,Male,Alzheimers_and_other_dementias,165.11
+United Kingdom,2014,10.89,Female,Alzheimers_and_other_dementias,276.92
+United Kingdom,2015,10.37,Male,Alzheimers_and_other_dementias,169.57
+United Kingdom,2015,10.37,Female,Alzheimers_and_other_dementias,280.21
+United Kingdom,2016,10.21,Male,Alzheimers_and_other_dementias,171.32
+United Kingdom,2016,10.21,Female,Alzheimers_and_other_dementias,281.84
+United Kingdom,2017,10.36,Male,Alzheimers_and_other_dementias,172.17
+United Kingdom,2017,10.36,Female,Alzheimers_and_other_dementias,284.53
+United Kingdom,2018,10.17,Male,Alzheimers_and_other_dementias,173.25
+United Kingdom,2018,10.17,Female,Alzheimers_and_other_dementias,288.43
+United Kingdom,2019,10.09,Male,Alzheimers_and_other_dementias,175.66
+United Kingdom,2019,10.09,Female,Alzheimers_and_other_dementias,292.27
+Australia,1990,7.59,Male,CRD,43.18
+Australia,1990,7.59,Female,CRD,13.92
+Australia,1995,7.48,Male,CRD,47.69
+Australia,1995,7.48,Female,CRD,15.51
+Australia,2000,7.36,Male,CRD,50.46
+Australia,2000,7.36,Female,CRD,16.43
+Australia,2005,6.9,Male,CRD,81.73
+Australia,2005,6.9,Female,CRD,25.68
+Australia,2010,6.79,Male,CRD,104.71
+Australia,2010,6.79,Female,CRD,32.01
+Australia,2011,6.71,Male,CRD,107.43
+Australia,2011,6.71,Female,CRD,31.4
+Australia,2012,7,Male,CRD,109.31
+Australia,2012,7,Female,CRD,32.96
+Australia,2013,6.96,Male,CRD,108.97
+Australia,2013,6.96,Female,CRD,32.46
+Australia,2014,6.88,Male,CRD,109.58
+Australia,2014,6.88,Female,CRD,34.15
+Australia,2015,6.85,Male,CRD,112.33
+Australia,2015,6.85,Female,CRD,35.99
+Australia,2016,6.82,Male,CRD,108.76
+Australia,2016,6.82,Female,CRD,35.94
+Australia,2017,6.67,Male,CRD,104.69
+Australia,2017,6.67,Female,CRD,35.16
+Australia,2018,6.74,Male,CRD,105.94
+Australia,2018,6.74,Female,CRD,36.46
+Australia,2019,6.75,Male,CRD,106.43
+Australia,2019,6.75,Female,CRD,37.11
+Bangladesh,1990,52.91,Male,CRD,2343.45
+Bangladesh,1990,52.91,Female,CRD,1953.47
+Bangladesh,1995,51.64,Male,CRD,2457.6
+Bangladesh,1995,51.64,Female,CRD,1876.34
+Bangladesh,2000,53.75,Male,CRD,2278.45
+Bangladesh,2000,53.75,Female,CRD,1703.3
+Bangladesh,2005,55.06,Male,CRD,2497.88
+Bangladesh,2005,55.06,Female,CRD,1850.8
+Bangladesh,2010,56.42,Male,CRD,2768.91
+Bangladesh,2010,56.42,Female,CRD,2088.53
+Bangladesh,2011,60.54,Male,CRD,2793.42
+Bangladesh,2011,60.54,Female,CRD,1975.8
+Bangladesh,2012,68.94,Male,CRD,2815.32
+Bangladesh,2012,68.94,Female,CRD,2033.17
+Bangladesh,2013,66.43,Male,CRD,2792.49
+Bangladesh,2013,66.43,Female,CRD,1942.5
+Bangladesh,2014,73.27,Male,CRD,2762.73
+Bangladesh,2014,73.27,Female,CRD,1977.96
+Bangladesh,2015,68.97,Male,CRD,2781.61
+Bangladesh,2015,68.97,Female,CRD,2029.56
+Bangladesh,2016,67.77,Male,CRD,2638.92
+Bangladesh,2016,67.77,Female,CRD,1916.88
+Bangladesh,2017,62.75,Male,CRD,2525.45
+Bangladesh,2017,62.75,Female,CRD,1818.95
+Bangladesh,2018,63.28,Male,CRD,2541.6
+Bangladesh,2018,63.28,Female,CRD,1866.48
+Bangladesh,2019,63.43,Male,CRD,2546.69
+Bangladesh,2019,63.43,Female,CRD,1863.18
+Brazil,1990,14.63,Male,CRD,165.24
+Brazil,1990,14.63,Female,CRD,182.5
+Brazil,1995,14.48,Male,CRD,171.82
+Brazil,1995,14.48,Female,CRD,192.32
+Brazil,2000,14.59,Male,CRD,182.82
+Brazil,2000,14.59,Female,CRD,202.58
+Brazil,2005,14.57,Male,CRD,186.57
+Brazil,2005,14.57,Female,CRD,203.83
+Brazil,2010,14.08,Male,CRD,188.34
+Brazil,2010,14.08,Female,CRD,201.76
+Brazil,2011,14.69,Male,CRD,195.46
+Brazil,2011,14.69,Female,CRD,209.14
+Brazil,2012,13.79,Male,CRD,200.94
+Brazil,2012,13.79,Female,CRD,213.42
+Brazil,2013,13.16,Male,CRD,256.87
+Brazil,2013,13.16,Female,CRD,177.42
+Brazil,2014,13,Male,CRD,264.28
+Brazil,2014,13,Female,CRD,176.61
+Brazil,2015,11.69,Male,CRD,229.06
+Brazil,2015,11.69,Female,CRD,155.86
+Brazil,2016,11.42,Male,CRD,183.64
+Brazil,2016,11.42,Female,CRD,120.34
+Brazil,2017,11.67,Male,CRD,195.48
+Brazil,2017,11.67,Female,CRD,128.22
+Brazil,2018,11.63,Male,CRD,197.04
+Brazil,2018,11.63,Female,CRD,124.86
+Brazil,2019,11.65,Male,CRD,195.85
+Brazil,2019,11.65,Female,CRD,125.36
+Canada,1990,10.09,Male,CRD,190.71
+Canada,1990,10.09,Female,CRD,120.57
+Canada,1995,9.77,Male,CRD,187.85
+Canada,1995,9.77,Female,CRD,122.08
+Canada,2000,9.2,Male,CRD,188.43
+Canada,2000,9.2,Female,CRD,123.5
+Canada,2005,9.02,Male,CRD,182.48
+Canada,2005,9.02,Female,CRD,122.26
+Canada,2010,7.88,Male,CRD,177.09
+Canada,2010,7.88,Female,CRD,119.88
+Canada,2011,7.34,Male,CRD,179.74
+Canada,2011,7.34,Female,CRD,123.67
+Canada,2012,7.6,Male,CRD,181.66
+Canada,2012,7.6,Female,CRD,125.63
+Canada,2013,7.28,Male,CRD,72.89
+Canada,2013,7.28,Female,CRD,89.41
+Canada,2014,7.49,Male,CRD,82.15
+Canada,2014,7.49,Female,CRD,94.92
+Canada,2015,7.28,Male,CRD,93.1
+Canada,2015,7.28,Female,CRD,104.35
+Canada,2016,6.21,Male,CRD,123.46
+Canada,2016,6.21,Female,CRD,138.61
+Canada,2017,7.28,Male,CRD,149.68
+Canada,2017,7.28,Female,CRD,172.5
+Canada,2018,7.08,Male,CRD,157.74
+Canada,2018,7.08,Female,CRD,173.36
+Canada,2019,7.1,Male,CRD,163.13
+Canada,2019,7.1,Female,CRD,183.2
+China,1990,48.88,Male,CRD,43.09
+China,1990,48.88,Female,CRD,14.4
+China,1995,49.09,Male,CRD,37.52
+China,1995,49.09,Female,CRD,15.09
+China,2000,50.76,Male,CRD,35.03
+China,2000,50.76,Female,CRD,15.16
+China,2005,51.55,Male,CRD,30.12
+China,2005,51.55,Female,CRD,13.98
+China,2010,53.29,Male,CRD,24.95
+China,2010,53.29,Female,CRD,13.27
+China,2011,58.41,Male,CRD,23.79
+China,2011,58.41,Female,CRD,12.78
+China,2012,58.91,Male,CRD,21.2
+China,2012,58.91,Female,CRD,11.48
+China,2013,63.29,Male,CRD,18.23
+China,2013,63.29,Female,CRD,10.11
+China,2014,60.27,Male,CRD,15.75
+China,2014,60.27,Female,CRD,8.98
+China,2015,56.2,Male,CRD,14.35
+China,2015,56.2,Female,CRD,8.53
+China,2016,51.59,Male,CRD,13.98
+China,2016,51.59,Female,CRD,8.31
+China,2017,49.93,Male,CRD,13.77
+China,2017,49.93,Female,CRD,8.28
+China,2018,49.28,Male,CRD,13.41
+China,2018,49.28,Female,CRD,8.15
+China,2019,47.67,Male,CRD,12.83
+China,2019,47.67,Female,CRD,7.85
+Egypt,1990,66.64,Male,CRD,89.5
+Egypt,1990,66.64,Female,CRD,19.24
+Egypt,1995,74.62,Male,CRD,74.48
+Egypt,1995,74.62,Female,CRD,18.44
+Egypt,2000,69.85,Male,CRD,57.12
+Egypt,2000,69.85,Female,CRD,18.14
+Egypt,2005,69.66,Male,CRD,50.56
+Egypt,2005,69.66,Female,CRD,18.36
+Egypt,2010,78.51,Male,CRD,41.81
+Egypt,2010,78.51,Female,CRD,17.65
+Egypt,2011,69.78,Male,CRD,37.67
+Egypt,2011,69.78,Female,CRD,16.83
+Egypt,2012,69.7,Male,CRD,33.37
+Egypt,2012,69.7,Female,CRD,15.43
+Egypt,2013,74.76,Male,CRD,29.21
+Egypt,2013,74.76,Female,CRD,13.71
+Egypt,2014,72.02,Male,CRD,24.74
+Egypt,2014,72.02,Female,CRD,12.18
+Egypt,2015,73.13,Male,CRD,22.84
+Egypt,2015,73.13,Female,CRD,11.6
+Egypt,2016,20.71,Male,CRD,22.4
+Egypt,2016,20.71,Female,CRD,11.34
+Egypt,2017,66.96,Male,CRD,21.64
+Egypt,2017,66.96,Female,CRD,11.13
+Egypt,2018,68.47,Male,CRD,20.74
+Egypt,2018,68.47,Female,CRD,10.99
+Egypt,2019,67.89,Male,CRD,19.43
+Egypt,2019,67.89,Female,CRD,10.42
+Finland,1990,8.8,Male,CRD,664.18
+Finland,1990,8.8,Female,CRD,470.52
+Finland,1995,8.14,Male,CRD,518.88
+Finland,1995,8.14,Female,CRD,380.72
+Finland,2000,7.51,Male,CRD,403
+Finland,2000,7.51,Female,CRD,296.97
+Finland,2005,7.11,Male,CRD,322.21
+Finland,2005,7.11,Female,CRD,230.76
+Finland,2010,7.21,Male,CRD,260.62
+Finland,2010,7.21,Female,CRD,183.54
+Finland,2011,7.02,Male,CRD,236.13
+Finland,2011,7.02,Female,CRD,166.01
+Finland,2012,6.36,Male,CRD,203.52
+Finland,2012,6.36,Female,CRD,147.6
+Finland,2013,5.98,Male,CRD,171.78
+Finland,2013,5.98,Female,CRD,124.56
+Finland,2014,6.37,Male,CRD,147.05
+Finland,2014,6.37,Female,CRD,105.79
+Finland,2015,5.63,Male,CRD,132.15
+Finland,2015,5.63,Female,CRD,93.69
+Finland,2016,5.59,Male,CRD,127.39
+Finland,2016,5.59,Female,CRD,88.11
+Finland,2017,5.26,Male,CRD,120.75
+Finland,2017,5.26,Female,CRD,85.17
+Finland,2018,5.6,Male,CRD,116.03
+Finland,2018,5.6,Female,CRD,80.98
+Finland,2019,5.57,Male,CRD,109.02
+Finland,2019,5.57,Female,CRD,76.39
+France,1990,18.55,Male,CRD,29.18
+France,1990,18.55,Female,CRD,23.92
+France,1995,17.23,Male,CRD,26.12
+France,1995,17.23,Female,CRD,21.58
+France,2000,16.08,Male,CRD,24.75
+France,2000,16.08,Female,CRD,20.47
+France,2005,14.9,Male,CRD,25.34
+France,2005,14.9,Female,CRD,20.84
+France,2010,15.08,Male,CRD,25.85
+France,2010,15.08,Female,CRD,21.15
+France,2011,14.99,Male,CRD,26.02
+France,2011,14.99,Female,CRD,21.27
+France,2012,13.69,Male,CRD,25.4
+France,2012,13.69,Female,CRD,20.88
+France,2013,13.61,Male,CRD,36.21
+France,2013,13.61,Female,CRD,38.56
+France,2014,11.59,Male,CRD,38.33
+France,2014,11.59,Female,CRD,37.19
+France,2015,12.31,Male,CRD,35.95
+France,2015,12.31,Female,CRD,34.81
+France,2016,11.49,Male,CRD,38.42
+France,2016,11.49,Female,CRD,31.53
+France,2017,11.43,Male,CRD,36.79
+France,2017,11.43,Female,CRD,30.05
+France,2018,11.54,Male,CRD,35.31
+France,2018,11.54,Female,CRD,28.62
+France,2019,11.41,Male,CRD,32.67
+France,2019,11.41,Female,CRD,26.45
+Germany,1990,20.56,Male,CRD,103.98
+Germany,1990,20.56,Female,CRD,60.26
+Germany,1995,18.64,Male,CRD,101.2
+Germany,1995,18.64,Female,CRD,60.83
+Germany,2000,16.44,Male,CRD,75.6
+Germany,2000,16.44,Female,CRD,46
+Germany,2005,15.08,Male,CRD,62.74
+Germany,2005,15.08,Female,CRD,39.22
+Germany,2010,16.09,Male,CRD,55.51
+Germany,2010,16.09,Female,CRD,36.56
+Germany,2011,15.58,Male,CRD,54.03
+Germany,2011,15.58,Female,CRD,36.12
+Germany,2012,13.81,Male,CRD,51.93
+Germany,2012,13.81,Female,CRD,35.6
+Germany,2013,13.58,Male,CRD,49.32
+Germany,2013,13.58,Female,CRD,34.37
+Germany,2014,12.25,Male,CRD,45.53
+Germany,2014,12.25,Female,CRD,32.64
+Germany,2015,12.73,Male,CRD,45.43
+Germany,2015,12.73,Female,CRD,33.04
+Germany,2016,11.78,Male,CRD,43.47
+Germany,2016,11.78,Female,CRD,32.24
+Germany,2017,11.88,Male,CRD,41.4
+Germany,2017,11.88,Female,CRD,30.8
+Germany,2018,11.92,Male,CRD,39.07
+Germany,2018,11.92,Female,CRD,29.37
+Germany,2019,11.81,Male,CRD,37.25
+Germany,2019,11.81,Female,CRD,28.21
+India,1990,71.5,Male,CRD,688.67
+India,1990,71.5,Female,CRD,521.22
+India,1995,65.62,Male,CRD,615.37
+India,1995,65.62,Female,CRD,444.98
+India,2000,70.48,Male,CRD,538.15
+India,2000,70.48,Female,CRD,380.65
+India,2005,70.81,Male,CRD,439.43
+India,2005,70.81,Female,CRD,302.6
+India,2010,76.68,Male,CRD,357.56
+India,2010,76.68,Female,CRD,248.29
+India,2011,80,Male,CRD,339.08
+India,2011,80,Female,CRD,234.82
+India,2012,86.38,Male,CRD,319.49
+India,2012,86.38,Female,CRD,223.07
+India,2013,89.45,Male,CRD,294.38
+India,2013,89.45,Female,CRD,205.59
+India,2014,95.24,Male,CRD,268.84
+India,2014,95.24,Female,CRD,188.95
+India,2015,88.45,Male,CRD,259.51
+India,2015,88.45,Female,CRD,179.64
+India,2016,92.23,Male,CRD,243.08
+India,2016,92.23,Female,CRD,170.34
+India,2017,81.81,Male,CRD,229.1
+India,2017,81.81,Female,CRD,159.53
+India,2018,83.04,Male,CRD,212.87
+India,2018,83.04,Female,CRD,149.78
+India,2019,83.2,Male,CRD,200.05
+India,2019,83.2,Female,CRD,142.02
+Japan,1990,13.11,Male,CRD,262.04
+Japan,1990,13.11,Female,CRD,35.75
+Japan,1995,12.74,Male,CRD,256.31
+Japan,1995,12.74,Female,CRD,41.05
+Japan,2000,12.79,Male,CRD,256.56
+Japan,2000,12.79,Female,CRD,48.85
+Japan,2005,12.06,Male,CRD,238.79
+Japan,2005,12.06,Female,CRD,58.55
+Japan,2010,11.53,Male,CRD,212.69
+Japan,2010,11.53,Female,CRD,64.14
+Japan,2011,12.68,Male,CRD,204.98
+Japan,2011,12.68,Female,CRD,64.67
+Japan,2012,13.11,Male,CRD,194.85
+Japan,2012,13.11,Female,CRD,64.58
+Japan,2013,13.37,Male,CRD,182.41
+Japan,2013,13.37,Female,CRD,61.8
+Japan,2014,13.71,Male,CRD,170.35
+Japan,2014,13.71,Female,CRD,60.89
+Japan,2015,13.41,Male,CRD,160.77
+Japan,2015,13.41,Female,CRD,58.14
+Japan,2016,13.36,Male,CRD,149.76
+Japan,2016,13.36,Female,CRD,55.71
+Japan,2017,13.57,Male,CRD,140.67
+Japan,2017,13.57,Female,CRD,52.73
+Japan,2018,13.48,Male,CRD,128.82
+Japan,2018,13.48,Female,CRD,49.64
+Japan,2019,13.47,Male,CRD,119.94
+Japan,2019,13.47,Female,CRD,47.22
+Mexico,1990,32.68,Male,CRD,80.29
+Mexico,1990,32.68,Female,CRD,60.94
+Mexico,1995,31.76,Male,CRD,76.74
+Mexico,1995,31.76,Female,CRD,57.72
+Mexico,2000,30.41,Male,CRD,75.93
+Mexico,2000,30.41,Female,CRD,56.78
+Mexico,2005,23.14,Male,CRD,74.35
+Mexico,2005,23.14,Female,CRD,55.67
+Mexico,2010,21.62,Male,CRD,73.47
+Mexico,2010,21.62,Female,CRD,54.14
+Mexico,2011,24.72,Male,CRD,71.94
+Mexico,2011,24.72,Female,CRD,52.51
+Mexico,2012,22.81,Male,CRD,70.1
+Mexico,2012,22.81,Female,CRD,51.11
+Mexico,2013,23.61,Male,CRD,58.44
+Mexico,2013,23.61,Female,CRD,60.25
+Mexico,2014,22.04,Male,CRD,62.97
+Mexico,2014,22.04,Female,CRD,59.43
+Mexico,2015,22.11,Male,CRD,88.94
+Mexico,2015,22.11,Female,CRD,76.14
+Mexico,2016,21.27,Male,CRD,92.93
+Mexico,2016,21.27,Female,CRD,73.36
+Mexico,2017,20.42,Male,CRD,88.5
+Mexico,2017,20.42,Female,CRD,68.52
+Mexico,2018,20.39,Male,CRD,86.71
+Mexico,2018,20.39,Female,CRD,65.64
+Mexico,2019,20.12,Male,CRD,84.35
+Mexico,2019,20.12,Female,CRD,63.75
+New Zealand,1990,6.95,Male,CRD,115.98
+New Zealand,1990,6.95,Female,CRD,99.44
+New Zealand,1995,6.89,Male,CRD,111.69
+New Zealand,1995,6.89,Female,CRD,95.06
+New Zealand,2000,6.77,Male,CRD,110.79
+New Zealand,2000,6.77,Female,CRD,93.63
+New Zealand,2005,6.35,Male,CRD,110.42
+New Zealand,2005,6.35,Female,CRD,92.21
+New Zealand,2010,6.3,Male,CRD,109.92
+New Zealand,2010,6.3,Female,CRD,89.96
+New Zealand,2011,6.11,Male,CRD,108.17
+New Zealand,2011,6.11,Female,CRD,87.59
+New Zealand,2012,6.23,Male,CRD,104.75
+New Zealand,2012,6.23,Female,CRD,84.47
+New Zealand,2013,6.26,Male,CRD,341.65
+New Zealand,2013,6.26,Female,CRD,77.53
+New Zealand,2014,6.05,Male,CRD,309.22
+New Zealand,2014,6.05,Female,CRD,81.99
+New Zealand,2015,6.01,Male,CRD,261.67
+New Zealand,2015,6.01,Female,CRD,82.66
+New Zealand,2016,6.08,Male,CRD,226.26
+New Zealand,2016,6.08,Female,CRD,86.88
+New Zealand,2017,5.98,Male,CRD,220.83
+New Zealand,2017,5.98,Female,CRD,98.39
+New Zealand,2018,6.03,Male,CRD,213.09
+New Zealand,2018,6.03,Female,CRD,98.89
+New Zealand,2019,6.05,Male,CRD,202.23
+New Zealand,2019,6.05,Female,CRD,96.69
+Norway,1990,11.76,Male,CRD,193.59
+Norway,1990,11.76,Female,CRD,95.44
+Norway,1995,10.68,Male,CRD,173.41
+Norway,1995,10.68,Female,CRD,91.87
+Norway,2000,10.09,Male,CRD,159.08
+Norway,2000,10.09,Female,CRD,85.23
+Norway,2005,8.17,Male,CRD,148.66
+Norway,2005,8.17,Female,CRD,82.45
+Norway,2010,8.1,Male,CRD,136.4
+Norway,2010,8.1,Female,CRD,76.29
+Norway,2011,9.05,Male,CRD,125.9
+Norway,2011,9.05,Female,CRD,71.29
+Norway,2012,7.56,Male,CRD,114.61
+Norway,2012,7.56,Female,CRD,67.13
+Norway,2013,7.28,Male,CRD,198.01
+Norway,2013,7.28,Female,CRD,119.05
+Norway,2014,7.45,Male,CRD,169.94
+Norway,2014,7.45,Female,CRD,108.7
+Norway,2015,7.01,Male,CRD,136.87
+Norway,2015,7.01,Female,CRD,97.82
+Norway,2016,6.59,Male,CRD,122.2
+Norway,2016,6.59,Female,CRD,93.62
+Norway,2017,6.65,Male,CRD,133.98
+Norway,2017,6.65,Female,CRD,107.42
+Norway,2018,6.7,Male,CRD,132.14
+Norway,2018,6.7,Female,CRD,106.84
+Norway,2019,6.64,Male,CRD,127.19
+Norway,2019,6.64,Female,CRD,103.49
+Pakistan,1990,60.74,Male,CRD,122.79
+Pakistan,1990,60.74,Female,CRD,100.41
+Pakistan,1995,53.46,Male,CRD,112.51
+Pakistan,1995,53.46,Female,CRD,92.99
+Pakistan,2000,57.72,Male,CRD,109.14
+Pakistan,2000,57.72,Female,CRD,90.87
+Pakistan,2005,55.21,Male,CRD,102.99
+Pakistan,2005,55.21,Female,CRD,87.09
+Pakistan,2010,59.61,Male,CRD,95.96
+Pakistan,2010,59.61,Female,CRD,84.47
+Pakistan,2011,59.99,Male,CRD,89.96
+Pakistan,2011,59.99,Female,CRD,80.56
+Pakistan,2012,65.41,Male,CRD,83.02
+Pakistan,2012,65.41,Female,CRD,75.47
+Pakistan,2013,66.85,Male,CRD,88.29
+Pakistan,2013,66.85,Female,CRD,126.65
+Pakistan,2014,70.94,Male,CRD,105.66
+Pakistan,2014,70.94,Female,CRD,131.33
+Pakistan,2015,66.93,Male,CRD,99.6
+Pakistan,2015,66.93,Female,CRD,107.47
+Pakistan,2016,68.72,Male,CRD,110.17
+Pakistan,2016,68.72,Female,CRD,105.64
+Pakistan,2017,61.75,Male,CRD,117.07
+Pakistan,2017,61.75,Female,CRD,104.98
+Pakistan,2018,62.4,Male,CRD,118.15
+Pakistan,2018,62.4,Female,CRD,104.08
+Pakistan,2019,62.57,Male,CRD,117.25
+Pakistan,2019,62.57,Female,CRD,102.23
+South Africa,1990,28.76,Male,CRD,1730.35
+South Africa,1990,28.76,Female,CRD,1516.63
+South Africa,1995,29.18,Male,CRD,1408
+South Africa,1995,29.18,Female,CRD,1226.5
+South Africa,2000,28.69,Male,CRD,1097.58
+South Africa,2000,28.69,Female,CRD,931.64
+South Africa,2005,27.03,Male,CRD,878.66
+South Africa,2005,27.03,Female,CRD,706.97
+South Africa,2010,29.4,Male,CRD,785.3
+South Africa,2010,29.4,Female,CRD,599.54
+South Africa,2011,29.45,Male,CRD,748.19
+South Africa,2011,29.45,Female,CRD,566.69
+South Africa,2012,29.17,Male,CRD,714.18
+South Africa,2012,29.17,Female,CRD,532.48
+South Africa,2013,28.77,Male,CRD,671.58
+South Africa,2013,28.77,Female,CRD,495.3
+South Africa,2014,29,Male,CRD,607.01
+South Africa,2014,29,Female,CRD,444.31
+South Africa,2015,29.24,Male,CRD,573.19
+South Africa,2015,29.24,Female,CRD,414.07
+South Africa,2016,28.72,Male,CRD,535.63
+South Africa,2016,28.72,Female,CRD,382.66
+South Africa,2017,28.86,Male,CRD,487.51
+South Africa,2017,28.86,Female,CRD,343.35
+South Africa,2018,28.75,Male,CRD,449.64
+South Africa,2018,28.75,Female,CRD,315.8
+South Africa,2019,28.67,Male,CRD,411.68
+South Africa,2019,28.67,Female,CRD,286.46
+Sweden,1990,9.78,Male,CRD,51.75
+Sweden,1990,9.78,Female,CRD,15.79
+Sweden,1995,8.85,Male,CRD,53.49
+Sweden,1995,8.85,Female,CRD,17.41
+Sweden,2000,8.43,Male,CRD,53.09
+Sweden,2000,8.43,Female,CRD,18.78
+Sweden,2005,7.31,Male,CRD,52.71
+Sweden,2005,7.31,Female,CRD,19.86
+Sweden,2010,7.4,Male,CRD,54.51
+Sweden,2010,7.4,Female,CRD,21.02
+Sweden,2011,7.47,Male,CRD,56.7
+Sweden,2011,7.47,Female,CRD,21.98
+Sweden,2012,6.17,Male,CRD,57.89
+Sweden,2012,6.17,Female,CRD,23.29
+Sweden,2013,6.17,Male,CRD,58.29
+Sweden,2013,6.17,Female,CRD,24.64
+Sweden,2014,6.45,Male,CRD,59.01
+Sweden,2014,6.45,Female,CRD,25.76
+Sweden,2015,5.87,Male,CRD,60.42
+Sweden,2015,5.87,Female,CRD,27.68
+Sweden,2016,5.45,Male,CRD,61.44
+Sweden,2016,5.45,Female,CRD,28.92
+Sweden,2017,5.69,Male,CRD,62.34
+Sweden,2017,5.69,Female,CRD,30.13
+Sweden,2018,5.69,Male,CRD,63.63
+Sweden,2018,5.69,Female,CRD,30.83
+Sweden,2019,5.65,Male,CRD,63.21
+Sweden,2019,5.65,Female,CRD,30.67
+Thailand,1990,38.36,Male,CRD,1651.54
+Thailand,1990,38.36,Female,CRD,1173.68
+Thailand,1995,36.12,Male,CRD,1716.51
+Thailand,1995,36.12,Female,CRD,1191.23
+Thailand,2000,34.53,Male,CRD,1712.88
+Thailand,2000,34.53,Female,CRD,1162.18
+Thailand,2005,35.32,Male,CRD,1724.19
+Thailand,2005,35.32,Female,CRD,1125.16
+Thailand,2010,35.42,Male,CRD,1848.07
+Thailand,2010,35.42,Female,CRD,1169.29
+Thailand,2011,29.91,Male,CRD,1912.88
+Thailand,2011,29.91,Female,CRD,1212.93
+Thailand,2012,31.34,Male,CRD,1950.49
+Thailand,2012,31.34,Female,CRD,1292.42
+Thailand,2013,33.79,Male,CRD,1972.05
+Thailand,2013,33.79,Female,CRD,1327.62
+Thailand,2014,29.43,Male,CRD,1993.59
+Thailand,2014,29.43,Female,CRD,1357.38
+Thailand,2015,28.04,Male,CRD,1981.05
+Thailand,2015,28.04,Female,CRD,1376.25
+Thailand,2016,30.69,Male,CRD,1999.97
+Thailand,2016,30.69,Female,CRD,1415.1
+Thailand,2017,26.93,Male,CRD,1994.1
+Thailand,2017,26.93,Female,CRD,1402.67
+Thailand,2018,27.48,Male,CRD,2019.81
+Thailand,2018,27.48,Female,CRD,1414.13
+Thailand,2019,27.4,Male,CRD,2008.28
+Thailand,2019,27.4,Female,CRD,1385.89
+Turkmenistan,1990,24.7,Male,CRD,145.87
+Turkmenistan,1990,24.7,Female,CRD,136.82
+Turkmenistan,1995,28.73,Male,CRD,152
+Turkmenistan,1995,28.73,Female,CRD,142.16
+Turkmenistan,2000,26.1,Male,CRD,156.09
+Turkmenistan,2000,26.1,Female,CRD,149.2
+Turkmenistan,2005,30.56,Male,CRD,159.47
+Turkmenistan,2005,30.56,Female,CRD,154.13
+Turkmenistan,2010,28.62,Male,CRD,164.14
+Turkmenistan,2010,28.62,Female,CRD,160.13
+Turkmenistan,2011,27.13,Male,CRD,171.14
+Turkmenistan,2011,27.13,Female,CRD,167.29
+Turkmenistan,2012,26.2,Male,CRD,177.03
+Turkmenistan,2012,26.2,Female,CRD,173.8
+Turkmenistan,2013,27.82,Male,CRD,85.6
+Turkmenistan,2013,27.82,Female,CRD,76.14
+Turkmenistan,2014,27.78,Male,CRD,96.5
+Turkmenistan,2014,27.78,Female,CRD,87.03
+Turkmenistan,2015,28.61,Male,CRD,99.62
+Turkmenistan,2015,28.61,Female,CRD,89.82
+Turkmenistan,2016,27.78,Male,CRD,106.49
+Turkmenistan,2016,27.78,Female,CRD,96.99
+Turkmenistan,2017,26.29,Male,CRD,129.27
+Turkmenistan,2017,26.29,Female,CRD,117.07
+Turkmenistan,2018,26.54,Male,CRD,135.02
+Turkmenistan,2018,26.54,Female,CRD,123.19
+Turkmenistan,2019,26.03,Male,CRD,139.94
+Turkmenistan,2019,26.03,Female,CRD,131.01
+United Kingdom,1990,17.41,Male,CRD,980.55
+United Kingdom,1990,17.41,Female,CRD,724.69
+United Kingdom,1995,16.38,Male,CRD,1029.01
+United Kingdom,1995,16.38,Female,CRD,778.98
+United Kingdom,2000,14.86,Male,CRD,995.26
+United Kingdom,2000,14.86,Female,CRD,760.39
+United Kingdom,2005,13.34,Male,CRD,1017.63
+United Kingdom,2005,13.34,Female,CRD,820.42
+United Kingdom,2010,12.43,Male,CRD,1077.38
+United Kingdom,2010,12.43,Female,CRD,861.77
+United Kingdom,2011,13,Male,CRD,1096.71
+United Kingdom,2011,13,Female,CRD,888.15
+United Kingdom,2012,11.43,Male,CRD,1083.99
+United Kingdom,2012,11.43,Female,CRD,917.6
+United Kingdom,2013,11.42,Male,CRD,1099.04
+United Kingdom,2013,11.42,Female,CRD,944.75
+United Kingdom,2014,10.89,Male,CRD,1119.81
+United Kingdom,2014,10.89,Female,CRD,958.25
+United Kingdom,2015,10.37,Male,CRD,1107.93
+United Kingdom,2015,10.37,Female,CRD,974.54
+United Kingdom,2016,10.21,Male,CRD,1092.72
+United Kingdom,2016,10.21,Female,CRD,977.57
+United Kingdom,2017,10.36,Male,CRD,1094.96
+United Kingdom,2017,10.36,Female,CRD,997.15
+United Kingdom,2018,10.17,Male,CRD,1112.55
+United Kingdom,2018,10.17,Female,CRD,1000.46
+United Kingdom,2019,10.09,Male,CRD,1101.8
+United Kingdom,2019,10.09,Female,CRD,977.96
+Australia,1990,7.59,Male,Diabetes_and_Kidney,101.64
+Australia,1990,7.59,Female,Diabetes_and_Kidney,35.69
+Australia,1995,7.48,Male,Diabetes_and_Kidney,113.57
+Australia,1995,7.48,Female,Diabetes_and_Kidney,40.06
+Australia,2000,7.36,Male,Diabetes_and_Kidney,127.32
+Australia,2000,7.36,Female,Diabetes_and_Kidney,44.71
+Australia,2005,6.9,Male,Diabetes_and_Kidney,130.12
+Australia,2005,6.9,Female,Diabetes_and_Kidney,43.68
+Australia,2010,6.79,Male,Diabetes_and_Kidney,116.93
+Australia,2010,6.79,Female,Diabetes_and_Kidney,39.75
+Australia,2011,6.71,Male,Diabetes_and_Kidney,121.72
+Australia,2011,6.71,Female,Diabetes_and_Kidney,41.88
+Australia,2012,7,Male,Diabetes_and_Kidney,129.85
+Australia,2012,7,Female,Diabetes_and_Kidney,45.09
+Australia,2013,6.96,Male,Diabetes_and_Kidney,140.02
+Australia,2013,6.96,Female,Diabetes_and_Kidney,49.14
+Australia,2014,6.88,Male,Diabetes_and_Kidney,148.66
+Australia,2014,6.88,Female,Diabetes_and_Kidney,52.72
+Australia,2015,6.85,Male,Diabetes_and_Kidney,151.96
+Australia,2015,6.85,Female,Diabetes_and_Kidney,53.71
+Australia,2016,6.82,Male,Diabetes_and_Kidney,152.42
+Australia,2016,6.82,Female,Diabetes_and_Kidney,54.57
+Australia,2017,6.67,Male,Diabetes_and_Kidney,151.62
+Australia,2017,6.67,Female,Diabetes_and_Kidney,53.89
+Australia,2018,6.74,Male,Diabetes_and_Kidney,150.26
+Australia,2018,6.74,Female,Diabetes_and_Kidney,54.95
+Australia,2019,6.75,Male,Diabetes_and_Kidney,150.46
+Australia,2019,6.75,Female,Diabetes_and_Kidney,55.34
+Bangladesh,1990,52.91,Male,Diabetes_and_Kidney,419.63
+Bangladesh,1990,52.91,Female,Diabetes_and_Kidney,324.75
+Bangladesh,1995,51.64,Male,Diabetes_and_Kidney,415.58
+Bangladesh,1995,51.64,Female,Diabetes_and_Kidney,309.82
+Bangladesh,2000,53.75,Male,Diabetes_and_Kidney,407.79
+Bangladesh,2000,53.75,Female,Diabetes_and_Kidney,284.34
+Bangladesh,2005,55.06,Male,Diabetes_and_Kidney,391.37
+Bangladesh,2005,55.06,Female,Diabetes_and_Kidney,261.3
+Bangladesh,2010,56.42,Male,Diabetes_and_Kidney,326.53
+Bangladesh,2010,56.42,Female,Diabetes_and_Kidney,215.03
+Bangladesh,2011,60.54,Male,Diabetes_and_Kidney,336.95
+Bangladesh,2011,60.54,Female,Diabetes_and_Kidney,224.82
+Bangladesh,2012,68.94,Male,Diabetes_and_Kidney,354.25
+Bangladesh,2012,68.94,Female,Diabetes_and_Kidney,237.31
+Bangladesh,2013,66.43,Male,Diabetes_and_Kidney,373.49
+Bangladesh,2013,66.43,Female,Diabetes_and_Kidney,251.92
+Bangladesh,2014,73.27,Male,Diabetes_and_Kidney,389.78
+Bangladesh,2014,73.27,Female,Diabetes_and_Kidney,263.31
+Bangladesh,2015,68.97,Male,Diabetes_and_Kidney,397.1
+Bangladesh,2015,68.97,Female,Diabetes_and_Kidney,267.06
+Bangladesh,2016,67.77,Male,Diabetes_and_Kidney,400.2
+Bangladesh,2016,67.77,Female,Diabetes_and_Kidney,269.45
+Bangladesh,2017,62.75,Male,Diabetes_and_Kidney,402.73
+Bangladesh,2017,62.75,Female,Diabetes_and_Kidney,270.06
+Bangladesh,2018,63.28,Male,Diabetes_and_Kidney,404.29
+Bangladesh,2018,63.28,Female,Diabetes_and_Kidney,273.01
+Bangladesh,2019,63.43,Male,Diabetes_and_Kidney,404.79
+Bangladesh,2019,63.43,Female,Diabetes_and_Kidney,273.83
+Brazil,1990,14.63,Male,Diabetes_and_Kidney,121.73
+Brazil,1990,14.63,Female,Diabetes_and_Kidney,93.14
+Brazil,1995,14.48,Male,Diabetes_and_Kidney,128.56
+Brazil,1995,14.48,Female,Diabetes_and_Kidney,98.53
+Brazil,2000,14.59,Male,Diabetes_and_Kidney,132.76
+Brazil,2000,14.59,Female,Diabetes_and_Kidney,101.7
+Brazil,2005,14.57,Male,Diabetes_and_Kidney,135.58
+Brazil,2005,14.57,Female,Diabetes_and_Kidney,105.4
+Brazil,2010,14.08,Male,Diabetes_and_Kidney,139.91
+Brazil,2010,14.08,Female,Diabetes_and_Kidney,111.57
+Brazil,2011,14.69,Male,Diabetes_and_Kidney,143.64
+Brazil,2011,14.69,Female,Diabetes_and_Kidney,117.68
+Brazil,2012,13.79,Male,Diabetes_and_Kidney,147.07
+Brazil,2012,13.79,Female,Diabetes_and_Kidney,121.64
+Brazil,2013,13.16,Male,Diabetes_and_Kidney,74.65
+Brazil,2013,13.16,Female,Diabetes_and_Kidney,60.98
+Brazil,2014,13,Male,Diabetes_and_Kidney,82.06
+Brazil,2014,13,Female,Diabetes_and_Kidney,62.02
+Brazil,2015,11.69,Male,Diabetes_and_Kidney,99.56
+Brazil,2015,11.69,Female,Diabetes_and_Kidney,75.07
+Brazil,2016,11.42,Male,Diabetes_and_Kidney,110.88
+Brazil,2016,11.42,Female,Diabetes_and_Kidney,82.66
+Brazil,2017,11.67,Male,Diabetes_and_Kidney,104.24
+Brazil,2017,11.67,Female,Diabetes_and_Kidney,79.38
+Brazil,2018,11.63,Male,Diabetes_and_Kidney,107.73
+Brazil,2018,11.63,Female,Diabetes_and_Kidney,82.22
+Brazil,2019,11.65,Male,Diabetes_and_Kidney,114.09
+Brazil,2019,11.65,Female,Diabetes_and_Kidney,87.24
+Canada,1990,10.09,Male,Diabetes_and_Kidney,48.66
+Canada,1990,10.09,Female,Diabetes_and_Kidney,26.38
+Canada,1995,9.77,Male,Diabetes_and_Kidney,49.04
+Canada,1995,9.77,Female,Diabetes_and_Kidney,26.12
+Canada,2000,9.2,Male,Diabetes_and_Kidney,52.36
+Canada,2000,9.2,Female,Diabetes_and_Kidney,26.43
+Canada,2005,9.02,Male,Diabetes_and_Kidney,53.03
+Canada,2005,9.02,Female,Diabetes_and_Kidney,25.65
+Canada,2010,7.88,Male,Diabetes_and_Kidney,49.37
+Canada,2010,7.88,Female,Diabetes_and_Kidney,22.86
+Canada,2011,7.34,Male,Diabetes_and_Kidney,51.87
+Canada,2011,7.34,Female,Diabetes_and_Kidney,24.08
+Canada,2012,7.6,Male,Diabetes_and_Kidney,55.68
+Canada,2012,7.6,Female,Diabetes_and_Kidney,26.01
+Canada,2013,7.28,Male,Diabetes_and_Kidney,60.54
+Canada,2013,7.28,Female,Diabetes_and_Kidney,28.1
+Canada,2014,7.49,Male,Diabetes_and_Kidney,64.59
+Canada,2014,7.49,Female,Diabetes_and_Kidney,29.93
+Canada,2015,7.28,Male,Diabetes_and_Kidney,66.81
+Canada,2015,7.28,Female,Diabetes_and_Kidney,31.15
+Canada,2016,6.21,Male,Diabetes_and_Kidney,68.35
+Canada,2016,6.21,Female,Diabetes_and_Kidney,31.61
+Canada,2017,7.28,Male,Diabetes_and_Kidney,71.78
+Canada,2017,7.28,Female,Diabetes_and_Kidney,32.13
+Canada,2018,7.08,Male,Diabetes_and_Kidney,72.55
+Canada,2018,7.08,Female,Diabetes_and_Kidney,32.28
+Canada,2019,7.1,Male,Diabetes_and_Kidney,72.91
+Canada,2019,7.1,Female,Diabetes_and_Kidney,32.21
+China,1990,48.88,Male,Diabetes_and_Kidney,488.3
+China,1990,48.88,Female,Diabetes_and_Kidney,406.97
+China,1995,49.09,Male,Diabetes_and_Kidney,517.85
+China,1995,49.09,Female,Diabetes_and_Kidney,429.55
+China,2000,50.76,Male,Diabetes_and_Kidney,512.49
+China,2000,50.76,Female,Diabetes_and_Kidney,395.58
+China,2005,51.55,Male,Diabetes_and_Kidney,459.29
+China,2005,51.55,Female,Diabetes_and_Kidney,340.16
+China,2010,53.29,Male,Diabetes_and_Kidney,457.27
+China,2010,53.29,Female,Diabetes_and_Kidney,324.89
+China,2011,58.41,Male,Diabetes_and_Kidney,453.85
+China,2011,58.41,Female,Diabetes_and_Kidney,320.14
+China,2012,58.91,Male,Diabetes_and_Kidney,457.62
+China,2012,58.91,Female,Diabetes_and_Kidney,326.03
+China,2013,63.29,Male,Diabetes_and_Kidney,485.25
+China,2013,63.29,Female,Diabetes_and_Kidney,341.22
+China,2014,60.27,Male,Diabetes_and_Kidney,494.13
+China,2014,60.27,Female,Diabetes_and_Kidney,348.81
+China,2015,56.2,Male,Diabetes_and_Kidney,505.8
+China,2015,56.2,Female,Diabetes_and_Kidney,350.79
+China,2016,51.59,Male,Diabetes_and_Kidney,517.14
+China,2016,51.59,Female,Diabetes_and_Kidney,352.66
+China,2017,49.93,Male,Diabetes_and_Kidney,487.8
+China,2017,49.93,Female,Diabetes_and_Kidney,329.45
+China,2018,49.28,Male,Diabetes_and_Kidney,465.75
+China,2018,49.28,Female,Diabetes_and_Kidney,309.99
+China,2019,47.67,Male,Diabetes_and_Kidney,457.95
+China,2019,47.67,Female,Diabetes_and_Kidney,303.12
+Egypt,1990,66.64,Male,Diabetes_and_Kidney,52.04
+Egypt,1990,66.64,Female,Diabetes_and_Kidney,24.33
+Egypt,1995,74.62,Male,Diabetes_and_Kidney,52.55
+Egypt,1995,74.62,Female,Diabetes_and_Kidney,24.68
+Egypt,2000,69.85,Male,Diabetes_and_Kidney,50.24
+Egypt,2000,69.85,Female,Diabetes_and_Kidney,24.12
+Egypt,2005,69.66,Male,Diabetes_and_Kidney,42.34
+Egypt,2005,69.66,Female,Diabetes_and_Kidney,20.71
+Egypt,2010,78.51,Male,Diabetes_and_Kidney,32.13
+Egypt,2010,78.51,Female,Diabetes_and_Kidney,17.9
+Egypt,2011,69.78,Male,Diabetes_and_Kidney,30.77
+Egypt,2011,69.78,Female,Diabetes_and_Kidney,17.94
+Egypt,2012,69.7,Male,Diabetes_and_Kidney,29.9
+Egypt,2012,69.7,Female,Diabetes_and_Kidney,17.41
+Egypt,2013,74.76,Male,Diabetes_and_Kidney,30.04
+Egypt,2013,74.76,Female,Diabetes_and_Kidney,18.33
+Egypt,2014,72.02,Male,Diabetes_and_Kidney,29.46
+Egypt,2014,72.02,Female,Diabetes_and_Kidney,18.28
+Egypt,2015,73.13,Male,Diabetes_and_Kidney,28.78
+Egypt,2015,73.13,Female,Diabetes_and_Kidney,18.08
+Egypt,2016,20.71,Male,Diabetes_and_Kidney,27.86
+Egypt,2016,20.71,Female,Diabetes_and_Kidney,17.71
+Egypt,2017,66.96,Male,Diabetes_and_Kidney,25.35
+Egypt,2017,66.96,Female,Diabetes_and_Kidney,16.43
+Egypt,2018,68.47,Male,Diabetes_and_Kidney,23.01
+Egypt,2018,68.47,Female,Diabetes_and_Kidney,15.25
+Egypt,2019,67.89,Male,Diabetes_and_Kidney,21.93
+Egypt,2019,67.89,Female,Diabetes_and_Kidney,14.4
+Finland,1990,8.8,Male,Diabetes_and_Kidney,214.86
+Finland,1990,8.8,Female,Diabetes_and_Kidney,249.03
+Finland,1995,8.14,Male,Diabetes_and_Kidney,247.42
+Finland,1995,8.14,Female,Diabetes_and_Kidney,287.95
+Finland,2000,7.51,Male,Diabetes_and_Kidney,234.73
+Finland,2000,7.51,Female,Diabetes_and_Kidney,269.16
+Finland,2005,7.11,Male,Diabetes_and_Kidney,287.19
+Finland,2005,7.11,Female,Diabetes_and_Kidney,312.63
+Finland,2010,7.21,Male,Diabetes_and_Kidney,288.32
+Finland,2010,7.21,Female,Diabetes_and_Kidney,302.91
+Finland,2011,7.02,Male,Diabetes_and_Kidney,289.6
+Finland,2011,7.02,Female,Diabetes_and_Kidney,303.53
+Finland,2012,6.36,Male,Diabetes_and_Kidney,296.68
+Finland,2012,6.36,Female,Diabetes_and_Kidney,311.51
+Finland,2013,5.98,Male,Diabetes_and_Kidney,313.22
+Finland,2013,5.98,Female,Diabetes_and_Kidney,327.71
+Finland,2014,6.37,Male,Diabetes_and_Kidney,331.75
+Finland,2014,6.37,Female,Diabetes_and_Kidney,347.23
+Finland,2015,5.63,Male,Diabetes_and_Kidney,331.62
+Finland,2015,5.63,Female,Diabetes_and_Kidney,348.24
+Finland,2016,5.59,Male,Diabetes_and_Kidney,344.74
+Finland,2016,5.59,Female,Diabetes_and_Kidney,353.89
+Finland,2017,5.26,Male,Diabetes_and_Kidney,341.15
+Finland,2017,5.26,Female,Diabetes_and_Kidney,343.89
+Finland,2018,5.6,Male,Diabetes_and_Kidney,341.49
+Finland,2018,5.6,Female,Diabetes_and_Kidney,343.12
+Finland,2019,5.57,Male,Diabetes_and_Kidney,339.29
+Finland,2019,5.57,Female,Diabetes_and_Kidney,342.42
+France,1990,18.55,Male,Diabetes_and_Kidney,116.49
+France,1990,18.55,Female,Diabetes_and_Kidney,97.23
+France,1995,17.23,Male,Diabetes_and_Kidney,118.96
+France,1995,17.23,Female,Diabetes_and_Kidney,100.06
+France,2000,16.08,Male,Diabetes_and_Kidney,126.42
+France,2000,16.08,Female,Diabetes_and_Kidney,102.71
+France,2005,14.9,Male,Diabetes_and_Kidney,107.1
+France,2005,14.9,Female,Diabetes_and_Kidney,90.51
+France,2010,15.08,Male,Diabetes_and_Kidney,96.46
+France,2010,15.08,Female,Diabetes_and_Kidney,81.69
+France,2011,14.99,Male,Diabetes_and_Kidney,91.13
+France,2011,14.99,Female,Diabetes_and_Kidney,80.2
+France,2012,13.69,Male,Diabetes_and_Kidney,89.43
+France,2012,13.69,Female,Diabetes_and_Kidney,80
+France,2013,13.61,Male,Diabetes_and_Kidney,92.85
+France,2013,13.61,Female,Diabetes_and_Kidney,83.24
+France,2014,11.59,Male,Diabetes_and_Kidney,92.68
+France,2014,11.59,Female,Diabetes_and_Kidney,84.12
+France,2015,12.31,Male,Diabetes_and_Kidney,91.89
+France,2015,12.31,Female,Diabetes_and_Kidney,83.54
+France,2016,11.49,Male,Diabetes_and_Kidney,89
+France,2016,11.49,Female,Diabetes_and_Kidney,81.6
+France,2017,11.43,Male,Diabetes_and_Kidney,79.35
+France,2017,11.43,Female,Diabetes_and_Kidney,73.8
+France,2018,11.54,Male,Diabetes_and_Kidney,72.63
+France,2018,11.54,Female,Diabetes_and_Kidney,67.13
+France,2019,11.41,Male,Diabetes_and_Kidney,70.39
+France,2019,11.41,Female,Diabetes_and_Kidney,63.82
+Germany,1990,20.56,Male,Diabetes_and_Kidney,45.14
+Germany,1990,20.56,Female,Diabetes_and_Kidney,23
+Germany,1995,18.64,Male,Diabetes_and_Kidney,38.44
+Germany,1995,18.64,Female,Diabetes_and_Kidney,22.02
+Germany,2000,16.44,Male,Diabetes_and_Kidney,33.02
+Germany,2000,16.44,Female,Diabetes_and_Kidney,21.98
+Germany,2005,15.08,Male,Diabetes_and_Kidney,25.74
+Germany,2005,15.08,Female,Diabetes_and_Kidney,18.93
+Germany,2010,16.09,Male,Diabetes_and_Kidney,28.93
+Germany,2010,16.09,Female,Diabetes_and_Kidney,24.43
+Germany,2011,15.58,Male,Diabetes_and_Kidney,28.28
+Germany,2011,15.58,Female,Diabetes_and_Kidney,24.38
+Germany,2012,13.81,Male,Diabetes_and_Kidney,27.14
+Germany,2012,13.81,Female,Diabetes_and_Kidney,23.45
+Germany,2013,13.58,Male,Diabetes_and_Kidney,25.6
+Germany,2013,13.58,Female,Diabetes_and_Kidney,23.06
+Germany,2014,12.25,Male,Diabetes_and_Kidney,25.42
+Germany,2014,12.25,Female,Diabetes_and_Kidney,22.38
+Germany,2015,12.73,Male,Diabetes_and_Kidney,24.97
+Germany,2015,12.73,Female,Diabetes_and_Kidney,22.33
+Germany,2016,11.78,Male,Diabetes_and_Kidney,25.7
+Germany,2016,11.78,Female,Diabetes_and_Kidney,23.52
+Germany,2017,11.88,Male,Diabetes_and_Kidney,26.73
+Germany,2017,11.88,Female,Diabetes_and_Kidney,27.02
+Germany,2018,11.92,Male,Diabetes_and_Kidney,29.17
+Germany,2018,11.92,Female,Diabetes_and_Kidney,29.69
+Germany,2019,11.81,Male,Diabetes_and_Kidney,30.55
+Germany,2019,11.81,Female,Diabetes_and_Kidney,30.89
+India,1990,71.5,Male,Diabetes_and_Kidney,286.6
+India,1990,71.5,Female,Diabetes_and_Kidney,192.35
+India,1995,65.62,Male,Diabetes_and_Kidney,236.46
+India,1995,65.62,Female,Diabetes_and_Kidney,158.9
+India,2000,70.48,Male,Diabetes_and_Kidney,192.67
+India,2000,70.48,Female,Diabetes_and_Kidney,136.28
+India,2005,70.81,Male,Diabetes_and_Kidney,139.65
+India,2005,70.81,Female,Diabetes_and_Kidney,102.3
+India,2010,76.68,Male,Diabetes_and_Kidney,140.54
+India,2010,76.68,Female,Diabetes_and_Kidney,99.35
+India,2011,80,Male,Diabetes_and_Kidney,137.5
+India,2011,80,Female,Diabetes_and_Kidney,98.28
+India,2012,86.38,Male,Diabetes_and_Kidney,131.81
+India,2012,86.38,Female,Diabetes_and_Kidney,91.19
+India,2013,89.45,Male,Diabetes_and_Kidney,123.27
+India,2013,89.45,Female,Diabetes_and_Kidney,82.98
+India,2014,95.24,Male,Diabetes_and_Kidney,117.65
+India,2014,95.24,Female,Diabetes_and_Kidney,79.91
+India,2015,88.45,Male,Diabetes_and_Kidney,112.1
+India,2015,88.45,Female,Diabetes_and_Kidney,76.99
+India,2016,92.23,Male,Diabetes_and_Kidney,115.28
+India,2016,92.23,Female,Diabetes_and_Kidney,77.17
+India,2017,81.81,Male,Diabetes_and_Kidney,129.5
+India,2017,81.81,Female,Diabetes_and_Kidney,84.24
+India,2018,83.04,Male,Diabetes_and_Kidney,140.14
+India,2018,83.04,Female,Diabetes_and_Kidney,91.03
+India,2019,83.2,Male,Diabetes_and_Kidney,146.02
+India,2019,83.2,Female,Diabetes_and_Kidney,93.65
+Japan,1990,13.11,Male,Diabetes_and_Kidney,27.96
+Japan,1990,13.11,Female,Diabetes_and_Kidney,26.88
+Japan,1995,12.74,Male,Diabetes_and_Kidney,27.84
+Japan,1995,12.74,Female,Diabetes_and_Kidney,26.55
+Japan,2000,12.79,Male,Diabetes_and_Kidney,30.96
+Japan,2000,12.79,Female,Diabetes_and_Kidney,26.65
+Japan,2005,12.06,Male,Diabetes_and_Kidney,28.83
+Japan,2005,12.06,Female,Diabetes_and_Kidney,23.81
+Japan,2010,11.53,Male,Diabetes_and_Kidney,33.43
+Japan,2010,11.53,Female,Diabetes_and_Kidney,27.51
+Japan,2011,12.68,Male,Diabetes_and_Kidney,33.14
+Japan,2011,12.68,Female,Diabetes_and_Kidney,27.63
+Japan,2012,13.11,Male,Diabetes_and_Kidney,32.36
+Japan,2012,13.11,Female,Diabetes_and_Kidney,26.96
+Japan,2013,13.37,Male,Diabetes_and_Kidney,32.34
+Japan,2013,13.37,Female,Diabetes_and_Kidney,26.3
+Japan,2014,13.71,Male,Diabetes_and_Kidney,31.4
+Japan,2014,13.71,Female,Diabetes_and_Kidney,26.21
+Japan,2015,13.41,Male,Diabetes_and_Kidney,30.6
+Japan,2015,13.41,Female,Diabetes_and_Kidney,27
+Japan,2016,13.36,Male,Diabetes_and_Kidney,34.91
+Japan,2016,13.36,Female,Diabetes_and_Kidney,29.78
+Japan,2017,13.57,Male,Diabetes_and_Kidney,39.73
+Japan,2017,13.57,Female,Diabetes_and_Kidney,32.98
+Japan,2018,13.48,Male,Diabetes_and_Kidney,44.32
+Japan,2018,13.48,Female,Diabetes_and_Kidney,36.89
+Japan,2019,13.47,Male,Diabetes_and_Kidney,47.47
+Japan,2019,13.47,Female,Diabetes_and_Kidney,39.38
+Mexico,1990,32.68,Male,Diabetes_and_Kidney,35.71
+Mexico,1990,32.68,Female,Diabetes_and_Kidney,25.27
+Mexico,1995,31.76,Male,Diabetes_and_Kidney,34.22
+Mexico,1995,31.76,Female,Diabetes_and_Kidney,25.75
+Mexico,2000,30.41,Male,Diabetes_and_Kidney,31.06
+Mexico,2000,30.41,Female,Diabetes_and_Kidney,26.54
+Mexico,2005,23.14,Male,Diabetes_and_Kidney,23.18
+Mexico,2005,23.14,Female,Diabetes_and_Kidney,22.53
+Mexico,2010,21.62,Male,Diabetes_and_Kidney,25.71
+Mexico,2010,21.62,Female,Diabetes_and_Kidney,24.9
+Mexico,2011,24.72,Male,Diabetes_and_Kidney,25.33
+Mexico,2011,24.72,Female,Diabetes_and_Kidney,24.54
+Mexico,2012,22.81,Male,Diabetes_and_Kidney,23.98
+Mexico,2012,22.81,Female,Diabetes_and_Kidney,23.89
+Mexico,2013,23.61,Male,Diabetes_and_Kidney,23.19
+Mexico,2013,23.61,Female,Diabetes_and_Kidney,22.53
+Mexico,2014,22.04,Male,Diabetes_and_Kidney,22.57
+Mexico,2014,22.04,Female,Diabetes_and_Kidney,22.7
+Mexico,2015,22.11,Male,Diabetes_and_Kidney,22.12
+Mexico,2015,22.11,Female,Diabetes_and_Kidney,22.05
+Mexico,2016,21.27,Male,Diabetes_and_Kidney,22.52
+Mexico,2016,21.27,Female,Diabetes_and_Kidney,23.21
+Mexico,2017,20.42,Male,Diabetes_and_Kidney,24.58
+Mexico,2017,20.42,Female,Diabetes_and_Kidney,26.59
+Mexico,2018,20.39,Male,Diabetes_and_Kidney,26.97
+Mexico,2018,20.39,Female,Diabetes_and_Kidney,29.47
+Mexico,2019,20.12,Male,Diabetes_and_Kidney,28.31
+Mexico,2019,20.12,Female,Diabetes_and_Kidney,30.9
+New Zealand,1990,6.95,Male,Diabetes_and_Kidney,100.76
+New Zealand,1990,6.95,Female,Diabetes_and_Kidney,42.65
+New Zealand,1995,6.89,Male,Diabetes_and_Kidney,89.84
+New Zealand,1995,6.89,Female,Diabetes_and_Kidney,44.72
+New Zealand,2000,6.77,Male,Diabetes_and_Kidney,80.5
+New Zealand,2000,6.77,Female,Diabetes_and_Kidney,47.66
+New Zealand,2005,6.35,Male,Diabetes_and_Kidney,56.61
+New Zealand,2005,6.35,Female,Diabetes_and_Kidney,37.59
+New Zealand,2010,6.3,Male,Diabetes_and_Kidney,45.52
+New Zealand,2010,6.3,Female,Diabetes_and_Kidney,34.51
+New Zealand,2011,6.11,Male,Diabetes_and_Kidney,43.71
+New Zealand,2011,6.11,Female,Diabetes_and_Kidney,32.75
+New Zealand,2012,6.23,Male,Diabetes_and_Kidney,39.37
+New Zealand,2012,6.23,Female,Diabetes_and_Kidney,30.36
+New Zealand,2013,6.26,Male,Diabetes_and_Kidney,35.55
+New Zealand,2013,6.26,Female,Diabetes_and_Kidney,28.33
+New Zealand,2014,6.05,Male,Diabetes_and_Kidney,31.95
+New Zealand,2014,6.05,Female,Diabetes_and_Kidney,26.11
+New Zealand,2015,6.01,Male,Diabetes_and_Kidney,29.28
+New Zealand,2015,6.01,Female,Diabetes_and_Kidney,24.47
+New Zealand,2016,6.08,Male,Diabetes_and_Kidney,29.25
+New Zealand,2016,6.08,Female,Diabetes_and_Kidney,25.28
+New Zealand,2017,5.98,Male,Diabetes_and_Kidney,27.66
+New Zealand,2017,5.98,Female,Diabetes_and_Kidney,24.52
+New Zealand,2018,6.03,Male,Diabetes_and_Kidney,26.52
+New Zealand,2018,6.03,Female,Diabetes_and_Kidney,24.22
+New Zealand,2019,6.05,Male,Diabetes_and_Kidney,24.25
+New Zealand,2019,6.05,Female,Diabetes_and_Kidney,23.13
+Norway,1990,11.76,Male,Diabetes_and_Kidney,59.61
+Norway,1990,11.76,Female,Diabetes_and_Kidney,38.85
+Norway,1995,10.68,Male,Diabetes_and_Kidney,62.23
+Norway,1995,10.68,Female,Diabetes_and_Kidney,48.58
+Norway,2000,10.09,Male,Diabetes_and_Kidney,66.24
+Norway,2000,10.09,Female,Diabetes_and_Kidney,60.25
+Norway,2005,8.17,Male,Diabetes_and_Kidney,48.34
+Norway,2005,8.17,Female,Diabetes_and_Kidney,45.58
+Norway,2010,8.1,Male,Diabetes_and_Kidney,41.5
+Norway,2010,8.1,Female,Diabetes_and_Kidney,42.58
+Norway,2011,9.05,Male,Diabetes_and_Kidney,39.78
+Norway,2011,9.05,Female,Diabetes_and_Kidney,42.16
+Norway,2012,7.56,Male,Diabetes_and_Kidney,37.21
+Norway,2012,7.56,Female,Diabetes_and_Kidney,40.17
+Norway,2013,7.28,Male,Diabetes_and_Kidney,34.56
+Norway,2013,7.28,Female,Diabetes_and_Kidney,37.25
+Norway,2014,7.45,Male,Diabetes_and_Kidney,31.49
+Norway,2014,7.45,Female,Diabetes_and_Kidney,33.66
+Norway,2015,7.01,Male,Diabetes_and_Kidney,30.05
+Norway,2015,7.01,Female,Diabetes_and_Kidney,32.38
+Norway,2016,6.59,Male,Diabetes_and_Kidney,28.54
+Norway,2016,6.59,Female,Diabetes_and_Kidney,31.91
+Norway,2017,6.65,Male,Diabetes_and_Kidney,27.11
+Norway,2017,6.65,Female,Diabetes_and_Kidney,31.74
+Norway,2018,6.7,Male,Diabetes_and_Kidney,26.14
+Norway,2018,6.7,Female,Diabetes_and_Kidney,30.79
+Norway,2019,6.64,Male,Diabetes_and_Kidney,24.78
+Norway,2019,6.64,Female,Diabetes_and_Kidney,29.38
+Pakistan,1990,60.74,Male,Diabetes_and_Kidney,919.99
+Pakistan,1990,60.74,Female,Diabetes_and_Kidney,603.63
+Pakistan,1995,53.46,Male,Diabetes_and_Kidney,689.06
+Pakistan,1995,53.46,Female,Diabetes_and_Kidney,476.55
+Pakistan,2000,57.72,Male,Diabetes_and_Kidney,509.3
+Pakistan,2000,57.72,Female,Diabetes_and_Kidney,388.72
+Pakistan,2005,55.21,Male,Diabetes_and_Kidney,275.86
+Pakistan,2005,55.21,Female,Diabetes_and_Kidney,213.61
+Pakistan,2010,59.61,Male,Diabetes_and_Kidney,187.43
+Pakistan,2010,59.61,Female,Diabetes_and_Kidney,146.55
+Pakistan,2011,59.99,Male,Diabetes_and_Kidney,174.5
+Pakistan,2011,59.99,Female,Diabetes_and_Kidney,136.63
+Pakistan,2012,65.41,Male,Diabetes_and_Kidney,155.12
+Pakistan,2012,65.41,Female,Diabetes_and_Kidney,121.51
+Pakistan,2013,66.85,Male,Diabetes_and_Kidney,137.54
+Pakistan,2013,66.85,Female,Diabetes_and_Kidney,104.92
+Pakistan,2014,70.94,Male,Diabetes_and_Kidney,119.54
+Pakistan,2014,70.94,Female,Diabetes_and_Kidney,90.73
+Pakistan,2015,66.93,Male,Diabetes_and_Kidney,108.83
+Pakistan,2015,66.93,Female,Diabetes_and_Kidney,81.21
+Pakistan,2016,68.72,Male,Diabetes_and_Kidney,99.39
+Pakistan,2016,68.72,Female,Diabetes_and_Kidney,74.44
+Pakistan,2017,61.75,Male,Diabetes_and_Kidney,90.99
+Pakistan,2017,61.75,Female,Diabetes_and_Kidney,68.54
+Pakistan,2018,62.4,Male,Diabetes_and_Kidney,86.41
+Pakistan,2018,62.4,Female,Diabetes_and_Kidney,63.93
+Pakistan,2019,62.57,Male,Diabetes_and_Kidney,79.53
+Pakistan,2019,62.57,Female,Diabetes_and_Kidney,57.67
+South Africa,1990,28.76,Male,Diabetes_and_Kidney,59.64
+South Africa,1990,28.76,Female,Diabetes_and_Kidney,52.12
+South Africa,1995,29.18,Male,Diabetes_and_Kidney,58.65
+South Africa,1995,29.18,Female,Diabetes_and_Kidney,47.89
+South Africa,2000,28.69,Male,Diabetes_and_Kidney,61.42
+South Africa,2000,28.69,Female,Diabetes_and_Kidney,49.87
+South Africa,2005,27.03,Male,Diabetes_and_Kidney,50.41
+South Africa,2005,27.03,Female,Diabetes_and_Kidney,40.63
+South Africa,2010,29.4,Male,Diabetes_and_Kidney,43.17
+South Africa,2010,29.4,Female,Diabetes_and_Kidney,33.62
+South Africa,2011,29.45,Male,Diabetes_and_Kidney,39.93
+South Africa,2011,29.45,Female,Diabetes_and_Kidney,31.48
+South Africa,2012,29.17,Male,Diabetes_and_Kidney,37.51
+South Africa,2012,29.17,Female,Diabetes_and_Kidney,29.04
+South Africa,2013,28.77,Male,Diabetes_and_Kidney,34.44
+South Africa,2013,28.77,Female,Diabetes_and_Kidney,26.24
+South Africa,2014,29,Male,Diabetes_and_Kidney,31.24
+South Africa,2014,29,Female,Diabetes_and_Kidney,23.82
+South Africa,2015,29.24,Male,Diabetes_and_Kidney,29.82
+South Africa,2015,29.24,Female,Diabetes_and_Kidney,22.36
+South Africa,2016,28.72,Male,Diabetes_and_Kidney,29.9
+South Africa,2016,28.72,Female,Diabetes_and_Kidney,22.36
+South Africa,2017,28.86,Male,Diabetes_and_Kidney,29.9
+South Africa,2017,28.86,Female,Diabetes_and_Kidney,22.5
+South Africa,2018,28.75,Male,Diabetes_and_Kidney,30.33
+South Africa,2018,28.75,Female,Diabetes_and_Kidney,21.93
+South Africa,2019,28.67,Male,Diabetes_and_Kidney,29.94
+South Africa,2019,28.67,Female,Diabetes_and_Kidney,21.73
+Sweden,1990,9.78,Male,Diabetes_and_Kidney,110.39
+Sweden,1990,9.78,Female,Diabetes_and_Kidney,17.04
+Sweden,1995,8.85,Male,Diabetes_and_Kidney,123.15
+Sweden,1995,8.85,Female,Diabetes_and_Kidney,20.71
+Sweden,2000,8.43,Male,Diabetes_and_Kidney,135.55
+Sweden,2000,8.43,Female,Diabetes_and_Kidney,23.03
+Sweden,2005,7.31,Male,Diabetes_and_Kidney,130.83
+Sweden,2005,7.31,Female,Diabetes_and_Kidney,23.85
+Sweden,2010,7.4,Male,Diabetes_and_Kidney,117.21
+Sweden,2010,7.4,Female,Diabetes_and_Kidney,23.18
+Sweden,2011,7.47,Male,Diabetes_and_Kidney,116.54
+Sweden,2011,7.47,Female,Diabetes_and_Kidney,23.36
+Sweden,2012,6.17,Male,Diabetes_and_Kidney,116.73
+Sweden,2012,6.17,Female,Diabetes_and_Kidney,23.43
+Sweden,2013,6.17,Male,Diabetes_and_Kidney,116.64
+Sweden,2013,6.17,Female,Diabetes_and_Kidney,23.94
+Sweden,2014,6.45,Male,Diabetes_and_Kidney,116.91
+Sweden,2014,6.45,Female,Diabetes_and_Kidney,24.13
+Sweden,2015,5.87,Male,Diabetes_and_Kidney,117.03
+Sweden,2015,5.87,Female,Diabetes_and_Kidney,24.5
+Sweden,2016,5.45,Male,Diabetes_and_Kidney,116.34
+Sweden,2016,5.45,Female,Diabetes_and_Kidney,24.77
+Sweden,2017,5.69,Male,Diabetes_and_Kidney,114.64
+Sweden,2017,5.69,Female,Diabetes_and_Kidney,24.93
+Sweden,2018,5.69,Male,Diabetes_and_Kidney,111.61
+Sweden,2018,5.69,Female,Diabetes_and_Kidney,24.62
+Sweden,2019,5.65,Male,Diabetes_and_Kidney,108.32
+Sweden,2019,5.65,Female,Diabetes_and_Kidney,24.38
+Thailand,1990,38.36,Male,Diabetes_and_Kidney,1312.48
+Thailand,1990,38.36,Female,Diabetes_and_Kidney,1277.11
+Thailand,1995,36.12,Male,Diabetes_and_Kidney,1487.28
+Thailand,1995,36.12,Female,Diabetes_and_Kidney,1484.4
+Thailand,2000,34.53,Male,Diabetes_and_Kidney,1570.49
+Thailand,2000,34.53,Female,Diabetes_and_Kidney,1442.5
+Thailand,2005,35.32,Male,Diabetes_and_Kidney,1592.45
+Thailand,2005,35.32,Female,Diabetes_and_Kidney,1342.09
+Thailand,2010,35.42,Male,Diabetes_and_Kidney,1518.5
+Thailand,2010,35.42,Female,Diabetes_and_Kidney,1239.35
+Thailand,2011,29.91,Male,Diabetes_and_Kidney,1529.53
+Thailand,2011,29.91,Female,Diabetes_and_Kidney,1252.55
+Thailand,2012,31.34,Male,Diabetes_and_Kidney,1559.18
+Thailand,2012,31.34,Female,Diabetes_and_Kidney,1286.81
+Thailand,2013,33.79,Male,Diabetes_and_Kidney,1590.03
+Thailand,2013,33.79,Female,Diabetes_and_Kidney,1326.16
+Thailand,2014,29.43,Male,Diabetes_and_Kidney,1612.54
+Thailand,2014,29.43,Female,Diabetes_and_Kidney,1355.73
+Thailand,2015,28.04,Male,Diabetes_and_Kidney,1612.48
+Thailand,2015,28.04,Female,Diabetes_and_Kidney,1352.88
+Thailand,2016,30.69,Male,Diabetes_and_Kidney,1612.89
+Thailand,2016,30.69,Female,Diabetes_and_Kidney,1361.8
+Thailand,2017,26.93,Male,Diabetes_and_Kidney,1584.15
+Thailand,2017,26.93,Female,Diabetes_and_Kidney,1331.28
+Thailand,2018,27.48,Male,Diabetes_and_Kidney,1546.56
+Thailand,2018,27.48,Female,Diabetes_and_Kidney,1305.38
+Thailand,2019,27.4,Male,Diabetes_and_Kidney,1514.53
+Thailand,2019,27.4,Female,Diabetes_and_Kidney,1281.08
+Turkmenistan,1990,24.7,Male,Diabetes_and_Kidney,793.86
+Turkmenistan,1990,24.7,Female,Diabetes_and_Kidney,366.92
+Turkmenistan,1995,28.73,Male,Diabetes_and_Kidney,851.3
+Turkmenistan,1995,28.73,Female,Diabetes_and_Kidney,407.8
+Turkmenistan,2000,26.1,Male,Diabetes_and_Kidney,824.95
+Turkmenistan,2000,26.1,Female,Diabetes_and_Kidney,407.2
+Turkmenistan,2005,30.56,Male,Diabetes_and_Kidney,760.06
+Turkmenistan,2005,30.56,Female,Diabetes_and_Kidney,392.57
+Turkmenistan,2010,28.62,Male,Diabetes_and_Kidney,654.77
+Turkmenistan,2010,28.62,Female,Diabetes_and_Kidney,353.44
+Turkmenistan,2011,27.13,Male,Diabetes_and_Kidney,644.59
+Turkmenistan,2011,27.13,Female,Diabetes_and_Kidney,349.29
+Turkmenistan,2012,26.2,Male,Diabetes_and_Kidney,634.98
+Turkmenistan,2012,26.2,Female,Diabetes_and_Kidney,344.43
+Turkmenistan,2013,27.82,Male,Diabetes_and_Kidney,628.19
+Turkmenistan,2013,27.82,Female,Diabetes_and_Kidney,341.34
+Turkmenistan,2014,27.78,Male,Diabetes_and_Kidney,621.93
+Turkmenistan,2014,27.78,Female,Diabetes_and_Kidney,337.76
+Turkmenistan,2015,28.61,Male,Diabetes_and_Kidney,616.71
+Turkmenistan,2015,28.61,Female,Diabetes_and_Kidney,336.59
+Turkmenistan,2016,27.78,Male,Diabetes_and_Kidney,607.56
+Turkmenistan,2016,27.78,Female,Diabetes_and_Kidney,333.47
+Turkmenistan,2017,26.29,Male,Diabetes_and_Kidney,594.45
+Turkmenistan,2017,26.29,Female,Diabetes_and_Kidney,329.42
+Turkmenistan,2018,26.54,Male,Diabetes_and_Kidney,573.15
+Turkmenistan,2018,26.54,Female,Diabetes_and_Kidney,321.42
+Turkmenistan,2019,26.03,Male,Diabetes_and_Kidney,553.83
+Turkmenistan,2019,26.03,Female,Diabetes_and_Kidney,313.3
+United Kingdom,1990,17.41,Male,Diabetes_and_Kidney,143.47
+United Kingdom,1990,17.41,Female,Diabetes_and_Kidney,158.93
+United Kingdom,1995,16.38,Male,Diabetes_and_Kidney,145.46
+United Kingdom,1995,16.38,Female,Diabetes_and_Kidney,161.34
+United Kingdom,2000,14.86,Male,Diabetes_and_Kidney,147.19
+United Kingdom,2000,14.86,Female,Diabetes_and_Kidney,164.04
+United Kingdom,2005,13.34,Male,Diabetes_and_Kidney,149.52
+United Kingdom,2005,13.34,Female,Diabetes_and_Kidney,166.64
+United Kingdom,2010,12.43,Male,Diabetes_and_Kidney,151.57
+United Kingdom,2010,12.43,Female,Diabetes_and_Kidney,170.17
+United Kingdom,2011,13,Male,Diabetes_and_Kidney,153.9
+United Kingdom,2011,13,Female,Diabetes_and_Kidney,173
+United Kingdom,2012,11.43,Male,Diabetes_and_Kidney,155.93
+United Kingdom,2012,11.43,Female,Diabetes_and_Kidney,176.29
+United Kingdom,2013,11.42,Male,Diabetes_and_Kidney,88.19
+United Kingdom,2013,11.42,Female,Diabetes_and_Kidney,84.61
+United Kingdom,2014,10.89,Male,Diabetes_and_Kidney,105.05
+United Kingdom,2014,10.89,Female,Diabetes_and_Kidney,108.28
+United Kingdom,2015,10.37,Male,Diabetes_and_Kidney,119.05
+United Kingdom,2015,10.37,Female,Diabetes_and_Kidney,124.65
+United Kingdom,2016,10.21,Male,Diabetes_and_Kidney,130.53
+United Kingdom,2016,10.21,Female,Diabetes_and_Kidney,138.74
+United Kingdom,2017,10.36,Male,Diabetes_and_Kidney,139.23
+United Kingdom,2017,10.36,Female,Diabetes_and_Kidney,151.9
+United Kingdom,2018,10.17,Male,Diabetes_and_Kidney,140.12
+United Kingdom,2018,10.17,Female,Diabetes_and_Kidney,153.92
+United Kingdom,2019,10.09,Male,Diabetes_and_Kidney,141.46
+United Kingdom,2019,10.09,Female,Diabetes_and_Kidney,155.95
+Australia,1990,7.59,Male,tracheal_bronchus_lung cancer,96.99
+Australia,1990,7.59,Female,tracheal_bronchus_lung cancer,32.1
+Australia,1995,7.48,Male,tracheal_bronchus_lung cancer,113.32
+Australia,1995,7.48,Female,tracheal_bronchus_lung cancer,31.94
+Australia,2000,7.36,Male,tracheal_bronchus_lung cancer,129.36
+Australia,2000,7.36,Female,tracheal_bronchus_lung cancer,36.23
+Australia,2005,6.9,Male,tracheal_bronchus_lung cancer,120.17
+Australia,2005,6.9,Female,tracheal_bronchus_lung cancer,37.22
+Australia,2010,6.79,Male,tracheal_bronchus_lung cancer,116.84
+Australia,2010,6.79,Female,tracheal_bronchus_lung cancer,41.93
+Australia,2011,6.71,Male,tracheal_bronchus_lung cancer,114.17
+Australia,2011,6.71,Female,tracheal_bronchus_lung cancer,42.31
+Australia,2012,7,Male,tracheal_bronchus_lung cancer,112.69
+Australia,2012,7,Female,tracheal_bronchus_lung cancer,42.17
+Australia,2013,6.96,Male,tracheal_bronchus_lung cancer,109.98
+Australia,2013,6.96,Female,tracheal_bronchus_lung cancer,42.32
+Australia,2014,6.88,Male,tracheal_bronchus_lung cancer,108.97
+Australia,2014,6.88,Female,tracheal_bronchus_lung cancer,43.32
+Australia,2015,6.85,Male,tracheal_bronchus_lung cancer,109.25
+Australia,2015,6.85,Female,tracheal_bronchus_lung cancer,43.88
+Australia,2016,6.82,Male,tracheal_bronchus_lung cancer,107.5
+Australia,2016,6.82,Female,tracheal_bronchus_lung cancer,43.64
+Australia,2017,6.67,Male,tracheal_bronchus_lung cancer,101.53
+Australia,2017,6.67,Female,tracheal_bronchus_lung cancer,42.09
+Australia,2018,6.74,Male,tracheal_bronchus_lung cancer,97.53
+Australia,2018,6.74,Female,tracheal_bronchus_lung cancer,40.79
+Australia,2019,6.75,Male,tracheal_bronchus_lung cancer,93.38
+Australia,2019,6.75,Female,tracheal_bronchus_lung cancer,39.18
+Bangladesh,1990,52.91,Male,tracheal_bronchus_lung cancer,660.82
+Bangladesh,1990,52.91,Female,tracheal_bronchus_lung cancer,578.49
+Bangladesh,1995,51.64,Male,tracheal_bronchus_lung cancer,748.7
+Bangladesh,1995,51.64,Female,tracheal_bronchus_lung cancer,556.3
+Bangladesh,2000,53.75,Male,tracheal_bronchus_lung cancer,874.18
+Bangladesh,2000,53.75,Female,tracheal_bronchus_lung cancer,719.57
+Bangladesh,2005,55.06,Male,tracheal_bronchus_lung cancer,852.73
+Bangladesh,2005,55.06,Female,tracheal_bronchus_lung cancer,754.73
+Bangladesh,2010,56.42,Male,tracheal_bronchus_lung cancer,814.08
+Bangladesh,2010,56.42,Female,tracheal_bronchus_lung cancer,735.68
+Bangladesh,2011,60.54,Male,tracheal_bronchus_lung cancer,774.29
+Bangladesh,2011,60.54,Female,tracheal_bronchus_lung cancer,708.77
+Bangladesh,2012,68.94,Male,tracheal_bronchus_lung cancer,749.38
+Bangladesh,2012,68.94,Female,tracheal_bronchus_lung cancer,682.77
+Bangladesh,2013,66.43,Male,tracheal_bronchus_lung cancer,720.34
+Bangladesh,2013,66.43,Female,tracheal_bronchus_lung cancer,663.12
+Bangladesh,2014,73.27,Male,tracheal_bronchus_lung cancer,707.28
+Bangladesh,2014,73.27,Female,tracheal_bronchus_lung cancer,662.94
+Bangladesh,2015,68.97,Male,tracheal_bronchus_lung cancer,702.58
+Bangladesh,2015,68.97,Female,tracheal_bronchus_lung cancer,663.33
+Bangladesh,2016,67.77,Male,tracheal_bronchus_lung cancer,689.68
+Bangladesh,2016,67.77,Female,tracheal_bronchus_lung cancer,651.49
+Bangladesh,2017,62.75,Male,tracheal_bronchus_lung cancer,650.72
+Bangladesh,2017,62.75,Female,tracheal_bronchus_lung cancer,619.51
+Bangladesh,2018,63.28,Male,tracheal_bronchus_lung cancer,631.01
+Bangladesh,2018,63.28,Female,tracheal_bronchus_lung cancer,598.44
+Bangladesh,2019,63.43,Male,tracheal_bronchus_lung cancer,610.15
+Bangladesh,2019,63.43,Female,tracheal_bronchus_lung cancer,567.82
+Brazil,1990,14.63,Male,tracheal_bronchus_lung cancer,249.45
+Brazil,1990,14.63,Female,tracheal_bronchus_lung cancer,341.33
+Brazil,1995,14.48,Male,tracheal_bronchus_lung cancer,254.09
+Brazil,1995,14.48,Female,tracheal_bronchus_lung cancer,354.22
+Brazil,2000,14.59,Male,tracheal_bronchus_lung cancer,261.06
+Brazil,2000,14.59,Female,tracheal_bronchus_lung cancer,366.25
+Brazil,2005,14.57,Male,tracheal_bronchus_lung cancer,265.68
+Brazil,2005,14.57,Female,tracheal_bronchus_lung cancer,369.15
+Brazil,2010,14.08,Male,tracheal_bronchus_lung cancer,262.95
+Brazil,2010,14.08,Female,tracheal_bronchus_lung cancer,359.96
+Brazil,2011,14.69,Male,tracheal_bronchus_lung cancer,264.01
+Brazil,2011,14.69,Female,tracheal_bronchus_lung cancer,356.08
+Brazil,2012,13.79,Male,tracheal_bronchus_lung cancer,260.42
+Brazil,2012,13.79,Female,tracheal_bronchus_lung cancer,344.6
+Brazil,2013,13.16,Male,tracheal_bronchus_lung cancer,193.14
+Brazil,2013,13.16,Female,tracheal_bronchus_lung cancer,169.24
+Brazil,2014,13,Male,tracheal_bronchus_lung cancer,232.25
+Brazil,2014,13,Female,tracheal_bronchus_lung cancer,174.02
+Brazil,2015,11.69,Male,tracheal_bronchus_lung cancer,273.29
+Brazil,2015,11.69,Female,tracheal_bronchus_lung cancer,199.59
+Brazil,2016,11.42,Male,tracheal_bronchus_lung cancer,244.91
+Brazil,2016,11.42,Female,tracheal_bronchus_lung cancer,188.72
+Brazil,2017,11.67,Male,tracheal_bronchus_lung cancer,221.34
+Brazil,2017,11.67,Female,tracheal_bronchus_lung cancer,170.23
+Brazil,2018,11.63,Male,tracheal_bronchus_lung cancer,210.77
+Brazil,2018,11.63,Female,tracheal_bronchus_lung cancer,164.2
+Brazil,2019,11.65,Male,tracheal_bronchus_lung cancer,203.04
+Brazil,2019,11.65,Female,tracheal_bronchus_lung cancer,158.78
+Canada,1990,10.09,Male,tracheal_bronchus_lung cancer,196.11
+Canada,1990,10.09,Female,tracheal_bronchus_lung cancer,154.87
+Canada,1995,9.77,Male,tracheal_bronchus_lung cancer,192.98
+Canada,1995,9.77,Female,tracheal_bronchus_lung cancer,153.81
+Canada,2000,9.2,Male,tracheal_bronchus_lung cancer,191.46
+Canada,2000,9.2,Female,tracheal_bronchus_lung cancer,152.43
+Canada,2005,9.02,Male,tracheal_bronchus_lung cancer,188.3
+Canada,2005,9.02,Female,tracheal_bronchus_lung cancer,150.2
+Canada,2010,7.88,Male,tracheal_bronchus_lung cancer,181.1
+Canada,2010,7.88,Female,tracheal_bronchus_lung cancer,146.4
+Canada,2011,7.34,Male,tracheal_bronchus_lung cancer,175.89
+Canada,2011,7.34,Female,tracheal_bronchus_lung cancer,143.14
+Canada,2012,7.6,Male,tracheal_bronchus_lung cancer,169.75
+Canada,2012,7.6,Female,tracheal_bronchus_lung cancer,139.07
+Canada,2013,7.28,Male,tracheal_bronchus_lung cancer,113.49
+Canada,2013,7.28,Female,tracheal_bronchus_lung cancer,145.62
+Canada,2014,7.49,Male,tracheal_bronchus_lung cancer,137.58
+Canada,2014,7.49,Female,tracheal_bronchus_lung cancer,160.6
+Canada,2015,7.28,Male,tracheal_bronchus_lung cancer,173.97
+Canada,2015,7.28,Female,tracheal_bronchus_lung cancer,218.58
+Canada,2016,6.21,Male,tracheal_bronchus_lung cancer,201.45
+Canada,2016,6.21,Female,tracheal_bronchus_lung cancer,262.34
+Canada,2017,7.28,Male,tracheal_bronchus_lung cancer,242.76
+Canada,2017,7.28,Female,tracheal_bronchus_lung cancer,323.94
+Canada,2018,7.08,Male,tracheal_bronchus_lung cancer,244.06
+Canada,2018,7.08,Female,tracheal_bronchus_lung cancer,329.52
+Canada,2019,7.1,Male,tracheal_bronchus_lung cancer,247.44
+Canada,2019,7.1,Female,tracheal_bronchus_lung cancer,334.62
+China,1990,48.88,Male,tracheal_bronchus_lung cancer,75.28
+China,1990,48.88,Female,tracheal_bronchus_lung cancer,37.08
+China,1995,49.09,Male,tracheal_bronchus_lung cancer,64.33
+China,1995,49.09,Female,tracheal_bronchus_lung cancer,39.48
+China,2000,50.76,Male,tracheal_bronchus_lung cancer,58.36
+China,2000,50.76,Female,tracheal_bronchus_lung cancer,42.08
+China,2005,51.55,Male,tracheal_bronchus_lung cancer,45.15
+China,2005,51.55,Female,tracheal_bronchus_lung cancer,37.06
+China,2010,53.29,Male,tracheal_bronchus_lung cancer,36.49
+China,2010,53.29,Female,tracheal_bronchus_lung cancer,33.09
+China,2011,58.41,Male,tracheal_bronchus_lung cancer,34.81
+China,2011,58.41,Female,tracheal_bronchus_lung cancer,31.57
+China,2012,58.91,Male,tracheal_bronchus_lung cancer,30.81
+China,2012,58.91,Female,tracheal_bronchus_lung cancer,28.34
+China,2013,63.29,Male,tracheal_bronchus_lung cancer,26.35
+China,2013,63.29,Female,tracheal_bronchus_lung cancer,25.27
+China,2014,60.27,Male,tracheal_bronchus_lung cancer,22.74
+China,2014,60.27,Female,tracheal_bronchus_lung cancer,22.9
+China,2015,56.2,Male,tracheal_bronchus_lung cancer,20.66
+China,2015,56.2,Female,tracheal_bronchus_lung cancer,20.77
+China,2016,51.59,Male,tracheal_bronchus_lung cancer,19.48
+China,2016,51.59,Female,tracheal_bronchus_lung cancer,20.08
+China,2017,49.93,Male,tracheal_bronchus_lung cancer,19.27
+China,2017,49.93,Female,tracheal_bronchus_lung cancer,20.31
+China,2018,49.28,Male,tracheal_bronchus_lung cancer,18.43
+China,2018,49.28,Female,tracheal_bronchus_lung cancer,19.64
+China,2019,47.67,Male,tracheal_bronchus_lung cancer,16.87
+China,2019,47.67,Female,tracheal_bronchus_lung cancer,18.85
+Egypt,1990,66.64,Male,tracheal_bronchus_lung cancer,865.34
+Egypt,1990,66.64,Female,tracheal_bronchus_lung cancer,591.41
+Egypt,1995,74.62,Male,tracheal_bronchus_lung cancer,668.96
+Egypt,1995,74.62,Female,tracheal_bronchus_lung cancer,475.85
+Egypt,2000,69.85,Male,tracheal_bronchus_lung cancer,532.82
+Egypt,2000,69.85,Female,tracheal_bronchus_lung cancer,415.17
+Egypt,2005,69.66,Male,tracheal_bronchus_lung cancer,349.94
+Egypt,2005,69.66,Female,tracheal_bronchus_lung cancer,273.16
+Egypt,2010,78.51,Male,tracheal_bronchus_lung cancer,258.21
+Egypt,2010,78.51,Female,tracheal_bronchus_lung cancer,205.16
+Egypt,2011,69.78,Male,tracheal_bronchus_lung cancer,235.13
+Egypt,2011,69.78,Female,tracheal_bronchus_lung cancer,186.71
+Egypt,2012,69.7,Male,tracheal_bronchus_lung cancer,206.15
+Egypt,2012,69.7,Female,tracheal_bronchus_lung cancer,160.89
+Egypt,2013,74.76,Male,tracheal_bronchus_lung cancer,174.67
+Egypt,2013,74.76,Female,tracheal_bronchus_lung cancer,134.65
+Egypt,2014,72.02,Male,tracheal_bronchus_lung cancer,148.75
+Egypt,2014,72.02,Female,tracheal_bronchus_lung cancer,114.04
+Egypt,2015,73.13,Male,tracheal_bronchus_lung cancer,134.45
+Egypt,2015,73.13,Female,tracheal_bronchus_lung cancer,100.31
+Egypt,2016,20.71,Male,tracheal_bronchus_lung cancer,126.65
+Egypt,2016,20.71,Female,tracheal_bronchus_lung cancer,94.48
+Egypt,2017,66.96,Male,tracheal_bronchus_lung cancer,120.73
+Egypt,2017,66.96,Female,tracheal_bronchus_lung cancer,88.2
+Egypt,2018,68.47,Male,tracheal_bronchus_lung cancer,114.92
+Egypt,2018,68.47,Female,tracheal_bronchus_lung cancer,83.33
+Egypt,2019,67.89,Male,tracheal_bronchus_lung cancer,104.86
+Egypt,2019,67.89,Female,tracheal_bronchus_lung cancer,75.44
+Finland,1990,8.8,Male,tracheal_bronchus_lung cancer,42.61
+Finland,1990,8.8,Female,tracheal_bronchus_lung cancer,31.64
+Finland,1995,8.14,Male,tracheal_bronchus_lung cancer,38.2
+Finland,1995,8.14,Female,tracheal_bronchus_lung cancer,28.7
+Finland,2000,7.51,Male,tracheal_bronchus_lung cancer,36.13
+Finland,2000,7.51,Female,tracheal_bronchus_lung cancer,27.51
+Finland,2005,7.11,Male,tracheal_bronchus_lung cancer,35.9
+Finland,2005,7.11,Female,tracheal_bronchus_lung cancer,27.4
+Finland,2010,7.21,Male,tracheal_bronchus_lung cancer,35.66
+Finland,2010,7.21,Female,tracheal_bronchus_lung cancer,27.72
+Finland,2011,7.02,Male,tracheal_bronchus_lung cancer,34.7
+Finland,2011,7.02,Female,tracheal_bronchus_lung cancer,26.99
+Finland,2012,6.36,Male,tracheal_bronchus_lung cancer,33.36
+Finland,2012,6.36,Female,tracheal_bronchus_lung cancer,25.77
+Finland,2013,5.98,Male,tracheal_bronchus_lung cancer,62.91
+Finland,2013,5.98,Female,tracheal_bronchus_lung cancer,55.6
+Finland,2014,6.37,Male,tracheal_bronchus_lung cancer,62.01
+Finland,2014,6.37,Female,tracheal_bronchus_lung cancer,51.94
+Finland,2015,5.63,Male,tracheal_bronchus_lung cancer,63.95
+Finland,2015,5.63,Female,tracheal_bronchus_lung cancer,53.85
+Finland,2016,5.59,Male,tracheal_bronchus_lung cancer,59.32
+Finland,2016,5.59,Female,tracheal_bronchus_lung cancer,47.2
+Finland,2017,5.26,Male,tracheal_bronchus_lung cancer,56.62
+Finland,2017,5.26,Female,tracheal_bronchus_lung cancer,42.55
+Finland,2018,5.6,Male,tracheal_bronchus_lung cancer,52.67
+Finland,2018,5.6,Female,tracheal_bronchus_lung cancer,39.75
+Finland,2019,5.57,Male,tracheal_bronchus_lung cancer,47.29
+Finland,2019,5.57,Female,tracheal_bronchus_lung cancer,35.95
+France,1990,18.55,Male,tracheal_bronchus_lung cancer,49.3
+France,1990,18.55,Female,tracheal_bronchus_lung cancer,43.02
+France,1995,17.23,Male,tracheal_bronchus_lung cancer,46.25
+France,1995,17.23,Female,tracheal_bronchus_lung cancer,47.52
+France,2000,16.08,Male,tracheal_bronchus_lung cancer,46.63
+France,2000,16.08,Female,tracheal_bronchus_lung cancer,53.34
+France,2005,14.9,Male,tracheal_bronchus_lung cancer,36.18
+France,2005,14.9,Female,tracheal_bronchus_lung cancer,45.87
+France,2010,15.08,Male,tracheal_bronchus_lung cancer,29.78
+France,2010,15.08,Female,tracheal_bronchus_lung cancer,40.8
+France,2011,14.99,Male,tracheal_bronchus_lung cancer,28.15
+France,2011,14.99,Female,tracheal_bronchus_lung cancer,39.3
+France,2012,13.69,Male,tracheal_bronchus_lung cancer,25.52
+France,2012,13.69,Female,tracheal_bronchus_lung cancer,36.16
+France,2013,13.61,Male,tracheal_bronchus_lung cancer,22.22
+France,2013,13.61,Female,tracheal_bronchus_lung cancer,31.5
+France,2014,11.59,Male,tracheal_bronchus_lung cancer,19.41
+France,2014,11.59,Female,tracheal_bronchus_lung cancer,27.84
+France,2015,12.31,Male,tracheal_bronchus_lung cancer,17.89
+France,2015,12.31,Female,tracheal_bronchus_lung cancer,26.12
+France,2016,11.49,Male,tracheal_bronchus_lung cancer,17.41
+France,2016,11.49,Female,tracheal_bronchus_lung cancer,26.11
+France,2017,11.43,Male,tracheal_bronchus_lung cancer,17.2
+France,2017,11.43,Female,tracheal_bronchus_lung cancer,25.68
+France,2018,11.54,Male,tracheal_bronchus_lung cancer,16.56
+France,2018,11.54,Female,tracheal_bronchus_lung cancer,24.84
+France,2019,11.41,Male,tracheal_bronchus_lung cancer,15.45
+France,2019,11.41,Female,tracheal_bronchus_lung cancer,23.18
+Germany,1990,20.56,Male,tracheal_bronchus_lung cancer,"1,276.54"
+Germany,1990,20.56,Female,tracheal_bronchus_lung cancer,"1,000.15"
+Germany,1995,18.64,Male,tracheal_bronchus_lung cancer,"1,405.28"
+Germany,1995,18.64,Female,tracheal_bronchus_lung cancer,"1,032.39"
+Germany,2000,16.44,Male,tracheal_bronchus_lung cancer,"1,409.46"
+Germany,2000,16.44,Female,tracheal_bronchus_lung cancer,"1,086.54"
+Germany,2005,15.08,Male,tracheal_bronchus_lung cancer,"1,479.74"
+Germany,2005,15.08,Female,tracheal_bronchus_lung cancer,"1,077.77"
+Germany,2010,16.09,Male,tracheal_bronchus_lung cancer,"1,179.25"
+Germany,2010,16.09,Female,tracheal_bronchus_lung cancer,817.91
+Germany,2011,15.58,Male,tracheal_bronchus_lung cancer,"1,149.62"
+Germany,2011,15.58,Female,tracheal_bronchus_lung cancer,773.04
+Germany,2012,13.81,Male,tracheal_bronchus_lung cancer,"1,113.31"
+Germany,2012,13.81,Female,tracheal_bronchus_lung cancer,735.09
+Germany,2013,13.58,Male,tracheal_bronchus_lung cancer,"1,075.74"
+Germany,2013,13.58,Female,tracheal_bronchus_lung cancer,702.71
+Germany,2014,12.25,Male,tracheal_bronchus_lung cancer,"1,055.07"
+Germany,2014,12.25,Female,tracheal_bronchus_lung cancer,680.49
+Germany,2015,12.73,Male,tracheal_bronchus_lung cancer,"1,062.14"
+Germany,2015,12.73,Female,tracheal_bronchus_lung cancer,675.92
+Germany,2016,11.78,Male,tracheal_bronchus_lung cancer,"1,103.62"
+Germany,2016,11.78,Female,tracheal_bronchus_lung cancer,697.64
+Germany,2017,11.88,Male,tracheal_bronchus_lung cancer,"1,116.39"
+Germany,2017,11.88,Female,tracheal_bronchus_lung cancer,693.58
+Germany,2018,11.92,Male,tracheal_bronchus_lung cancer,"1,160.90"
+Germany,2018,11.92,Female,tracheal_bronchus_lung cancer,723.76
+Germany,2019,11.81,Male,tracheal_bronchus_lung cancer,"1,238.71"
+Germany,2019,11.81,Female,tracheal_bronchus_lung cancer,761.39
+India,1990,71.5,Male,tracheal_bronchus_lung cancer,204.65
+India,1990,71.5,Female,tracheal_bronchus_lung cancer,222.41
+India,1995,65.62,Male,tracheal_bronchus_lung cancer,213.95
+India,1995,65.62,Female,tracheal_bronchus_lung cancer,230.95
+India,2000,70.48,Male,tracheal_bronchus_lung cancer,224.42
+India,2000,70.48,Female,tracheal_bronchus_lung cancer,239.98
+India,2005,70.81,Male,tracheal_bronchus_lung cancer,237.35
+India,2005,70.81,Female,tracheal_bronchus_lung cancer,252.4
+India,2010,76.68,Male,tracheal_bronchus_lung cancer,247.43
+India,2010,76.68,Female,tracheal_bronchus_lung cancer,261.55
+India,2011,80,Male,tracheal_bronchus_lung cancer,261.17
+India,2011,80,Female,tracheal_bronchus_lung cancer,276.31
+India,2012,86.38,Male,tracheal_bronchus_lung cancer,278.52
+India,2012,86.38,Female,tracheal_bronchus_lung cancer,293.18
+India,2013,89.45,Male,tracheal_bronchus_lung cancer,88.82
+India,2013,89.45,Female,tracheal_bronchus_lung cancer,111.86
+India,2014,95.24,Male,tracheal_bronchus_lung cancer,116.11
+India,2014,95.24,Female,tracheal_bronchus_lung cancer,145.15
+India,2015,88.45,Male,tracheal_bronchus_lung cancer,138.02
+India,2015,88.45,Female,tracheal_bronchus_lung cancer,179.69
+India,2016,92.23,Male,tracheal_bronchus_lung cancer,165.56
+India,2016,92.23,Female,tracheal_bronchus_lung cancer,201.98
+India,2017,81.81,Male,tracheal_bronchus_lung cancer,180.65
+India,2017,81.81,Female,tracheal_bronchus_lung cancer,206.27
+India,2018,83.04,Male,tracheal_bronchus_lung cancer,189.8
+India,2018,83.04,Female,tracheal_bronchus_lung cancer,211.4
+India,2019,83.2,Male,tracheal_bronchus_lung cancer,197.49
+India,2019,83.2,Female,tracheal_bronchus_lung cancer,216.8
+Japan,1990,13.11,Male,tracheal_bronchus_lung cancer,568.9
+Japan,1990,13.11,Female,tracheal_bronchus_lung cancer,252.27
+Japan,1995,12.74,Male,tracheal_bronchus_lung cancer,537.82
+Japan,1995,12.74,Female,tracheal_bronchus_lung cancer,240.66
+Japan,2000,12.79,Male,tracheal_bronchus_lung cancer,496.9
+Japan,2000,12.79,Female,tracheal_bronchus_lung cancer,226.71
+Japan,2005,12.06,Male,tracheal_bronchus_lung cancer,457.47
+Japan,2005,12.06,Female,tracheal_bronchus_lung cancer,199.64
+Japan,2010,11.53,Male,tracheal_bronchus_lung cancer,323.74
+Japan,2010,11.53,Female,tracheal_bronchus_lung cancer,146.37
+Japan,2011,12.68,Male,tracheal_bronchus_lung cancer,314.63
+Japan,2011,12.68,Female,tracheal_bronchus_lung cancer,140.08
+Japan,2012,13.11,Male,tracheal_bronchus_lung cancer,294.97
+Japan,2012,13.11,Female,tracheal_bronchus_lung cancer,129.55
+Japan,2013,13.37,Male,tracheal_bronchus_lung cancer,272.17
+Japan,2013,13.37,Female,tracheal_bronchus_lung cancer,117
+Japan,2014,13.71,Male,tracheal_bronchus_lung cancer,258
+Japan,2014,13.71,Female,tracheal_bronchus_lung cancer,109.45
+Japan,2015,13.41,Male,tracheal_bronchus_lung cancer,249.92
+Japan,2015,13.41,Female,tracheal_bronchus_lung cancer,103.88
+Japan,2016,13.36,Male,tracheal_bronchus_lung cancer,253.08
+Japan,2016,13.36,Female,tracheal_bronchus_lung cancer,102.75
+Japan,2017,13.57,Male,tracheal_bronchus_lung cancer,255.9
+Japan,2017,13.57,Female,tracheal_bronchus_lung cancer,102.26
+Japan,2018,13.48,Male,tracheal_bronchus_lung cancer,267.44
+Japan,2018,13.48,Female,tracheal_bronchus_lung cancer,105.43
+Japan,2019,13.47,Male,tracheal_bronchus_lung cancer,285.16
+Japan,2019,13.47,Female,tracheal_bronchus_lung cancer,109.43
+Mexico,1990,32.68,Male,tracheal_bronchus_lung cancer,248.12
+Mexico,1990,32.68,Female,tracheal_bronchus_lung cancer,116.6
+Mexico,1995,31.76,Male,tracheal_bronchus_lung cancer,271.91
+Mexico,1995,31.76,Female,tracheal_bronchus_lung cancer,135.17
+Mexico,2000,30.41,Male,tracheal_bronchus_lung cancer,272.62
+Mexico,2000,30.41,Female,tracheal_bronchus_lung cancer,144.82
+Mexico,2005,23.14,Male,tracheal_bronchus_lung cancer,285.25
+Mexico,2005,23.14,Female,tracheal_bronchus_lung cancer,143.29
+Mexico,2010,21.62,Male,tracheal_bronchus_lung cancer,242.47
+Mexico,2010,21.62,Female,tracheal_bronchus_lung cancer,120.87
+Mexico,2011,24.72,Male,tracheal_bronchus_lung cancer,240.49
+Mexico,2011,24.72,Female,tracheal_bronchus_lung cancer,118.29
+Mexico,2012,22.81,Male,tracheal_bronchus_lung cancer,232.66
+Mexico,2012,22.81,Female,tracheal_bronchus_lung cancer,114.09
+Mexico,2013,23.61,Male,tracheal_bronchus_lung cancer,222.91
+Mexico,2013,23.61,Female,tracheal_bronchus_lung cancer,109.28
+Mexico,2014,22.04,Male,tracheal_bronchus_lung cancer,218.29
+Mexico,2014,22.04,Female,tracheal_bronchus_lung cancer,107.5
+Mexico,2015,22.11,Male,tracheal_bronchus_lung cancer,219.91
+Mexico,2015,22.11,Female,tracheal_bronchus_lung cancer,108.68
+Mexico,2016,21.27,Male,tracheal_bronchus_lung cancer,227.15
+Mexico,2016,21.27,Female,tracheal_bronchus_lung cancer,111.69
+Mexico,2017,20.42,Male,tracheal_bronchus_lung cancer,231.2
+Mexico,2017,20.42,Female,tracheal_bronchus_lung cancer,113.57
+Mexico,2018,20.39,Male,tracheal_bronchus_lung cancer,241.87
+Mexico,2018,20.39,Female,tracheal_bronchus_lung cancer,119.77
+Mexico,2019,20.12,Male,tracheal_bronchus_lung cancer,260.09
+Mexico,2019,20.12,Female,tracheal_bronchus_lung cancer,126.54
+New Zealand,1990,6.95,Male,tracheal_bronchus_lung cancer,58.21
+New Zealand,1990,6.95,Female,tracheal_bronchus_lung cancer,14.3
+New Zealand,1995,6.89,Male,tracheal_bronchus_lung cancer,54.63
+New Zealand,1995,6.89,Female,tracheal_bronchus_lung cancer,13.7
+New Zealand,2000,6.77,Male,tracheal_bronchus_lung cancer,36.22
+New Zealand,2000,6.77,Female,tracheal_bronchus_lung cancer,10.25
+New Zealand,2005,6.35,Male,tracheal_bronchus_lung cancer,29.06
+New Zealand,2005,6.35,Female,tracheal_bronchus_lung cancer,9.09
+New Zealand,2010,6.3,Male,tracheal_bronchus_lung cancer,38.78
+New Zealand,2010,6.3,Female,tracheal_bronchus_lung cancer,11.92
+New Zealand,2011,6.11,Male,tracheal_bronchus_lung cancer,41.75
+New Zealand,2011,6.11,Female,tracheal_bronchus_lung cancer,13.01
+New Zealand,2012,6.23,Male,tracheal_bronchus_lung cancer,40.57
+New Zealand,2012,6.23,Female,tracheal_bronchus_lung cancer,13.66
+New Zealand,2013,6.26,Male,tracheal_bronchus_lung cancer,43.63
+New Zealand,2013,6.26,Female,tracheal_bronchus_lung cancer,13.94
+New Zealand,2014,6.05,Male,tracheal_bronchus_lung cancer,50.17
+New Zealand,2014,6.05,Female,tracheal_bronchus_lung cancer,15.33
+New Zealand,2015,6.01,Male,tracheal_bronchus_lung cancer,49.98
+New Zealand,2015,6.01,Female,tracheal_bronchus_lung cancer,15.07
+New Zealand,2016,6.08,Male,tracheal_bronchus_lung cancer,49.81
+New Zealand,2016,6.08,Female,tracheal_bronchus_lung cancer,15.25
+New Zealand,2017,5.98,Male,tracheal_bronchus_lung cancer,48.4
+New Zealand,2017,5.98,Female,tracheal_bronchus_lung cancer,15.08
+New Zealand,2018,6.03,Male,tracheal_bronchus_lung cancer,46.66
+New Zealand,2018,6.03,Female,tracheal_bronchus_lung cancer,14.66
+New Zealand,2019,6.05,Male,tracheal_bronchus_lung cancer,45.49
+New Zealand,2019,6.05,Female,tracheal_bronchus_lung cancer,14.4
+Norway,1990,11.76,Male,tracheal_bronchus_lung cancer,988.75
+Norway,1990,11.76,Female,tracheal_bronchus_lung cancer,856.03
+Norway,1995,10.68,Male,tracheal_bronchus_lung cancer,"1,398.04"
+Norway,1995,10.68,Female,tracheal_bronchus_lung cancer,"1,196.15"
+Norway,2000,10.09,Male,tracheal_bronchus_lung cancer,"1,304.19"
+Norway,2000,10.09,Female,tracheal_bronchus_lung cancer,996.62
+Norway,2005,8.17,Male,tracheal_bronchus_lung cancer,"1,425.50"
+Norway,2005,8.17,Female,tracheal_bronchus_lung cancer,"1,035.47"
+Norway,2010,8.1,Male,tracheal_bronchus_lung cancer,"1,412.44"
+Norway,2010,8.1,Female,tracheal_bronchus_lung cancer,"1,037.59"
+Norway,2011,9.05,Male,tracheal_bronchus_lung cancer,"1,461.33"
+Norway,2011,9.05,Female,tracheal_bronchus_lung cancer,"1,102.83"
+Norway,2012,7.56,Male,tracheal_bronchus_lung cancer,"1,513.66"
+Norway,2012,7.56,Female,tracheal_bronchus_lung cancer,"1,161.97"
+Norway,2013,7.28,Male,tracheal_bronchus_lung cancer,"1,639.84"
+Norway,2013,7.28,Female,tracheal_bronchus_lung cancer,"1,198.52"
+Norway,2014,7.45,Male,tracheal_bronchus_lung cancer,"1,710.17"
+Norway,2014,7.45,Female,tracheal_bronchus_lung cancer,"1,252.41"
+Norway,2015,7.01,Male,tracheal_bronchus_lung cancer,"1,731.27"
+Norway,2015,7.01,Female,tracheal_bronchus_lung cancer,"1,305.68"
+Norway,2016,6.59,Male,tracheal_bronchus_lung cancer,"1,698.70"
+Norway,2016,6.59,Female,tracheal_bronchus_lung cancer,"1,295.77"
+Norway,2017,6.65,Male,tracheal_bronchus_lung cancer,"1,633.15"
+Norway,2017,6.65,Female,tracheal_bronchus_lung cancer,"1,286.01"
+Norway,2018,6.7,Male,tracheal_bronchus_lung cancer,"1,566.52"
+Norway,2018,6.7,Female,tracheal_bronchus_lung cancer,"1,232.95"
+Norway,2019,6.64,Male,tracheal_bronchus_lung cancer,"1,526.69"
+Norway,2019,6.64,Female,tracheal_bronchus_lung cancer,"1,191.31"
+Pakistan,1990,60.74,Male,tracheal_bronchus_lung cancer,90.64
+Pakistan,1990,60.74,Female,tracheal_bronchus_lung cancer,100.89
+Pakistan,1995,53.46,Male,tracheal_bronchus_lung cancer,98.09
+Pakistan,1995,53.46,Female,tracheal_bronchus_lung cancer,113.32
+Pakistan,2000,57.72,Male,tracheal_bronchus_lung cancer,107.49
+Pakistan,2000,57.72,Female,tracheal_bronchus_lung cancer,123.34
+Pakistan,2005,55.21,Male,tracheal_bronchus_lung cancer,109.98
+Pakistan,2005,55.21,Female,tracheal_bronchus_lung cancer,126.24
+Pakistan,2010,59.61,Male,tracheal_bronchus_lung cancer,111.58
+Pakistan,2010,59.61,Female,tracheal_bronchus_lung cancer,128.31
+Pakistan,2011,59.99,Male,tracheal_bronchus_lung cancer,112.66
+Pakistan,2011,59.99,Female,tracheal_bronchus_lung cancer,128.79
+Pakistan,2012,65.41,Male,tracheal_bronchus_lung cancer,114.6
+Pakistan,2012,65.41,Female,tracheal_bronchus_lung cancer,129.74
+Pakistan,2013,66.85,Male,tracheal_bronchus_lung cancer,31.46
+Pakistan,2013,66.85,Female,tracheal_bronchus_lung cancer,32.18
+Pakistan,2014,70.94,Male,tracheal_bronchus_lung cancer,48.88
+Pakistan,2014,70.94,Female,tracheal_bronchus_lung cancer,52.06
+Pakistan,2015,66.93,Male,tracheal_bronchus_lung cancer,47.26
+Pakistan,2015,66.93,Female,tracheal_bronchus_lung cancer,50.17
+Pakistan,2016,68.72,Male,tracheal_bronchus_lung cancer,59.22
+Pakistan,2016,68.72,Female,tracheal_bronchus_lung cancer,60.43
+Pakistan,2017,61.75,Male,tracheal_bronchus_lung cancer,75.33
+Pakistan,2017,61.75,Female,tracheal_bronchus_lung cancer,82.59
+Pakistan,2018,62.4,Male,tracheal_bronchus_lung cancer,77.69
+Pakistan,2018,62.4,Female,tracheal_bronchus_lung cancer,87.22
+Pakistan,2019,62.57,Male,tracheal_bronchus_lung cancer,83.48
+Pakistan,2019,62.57,Female,tracheal_bronchus_lung cancer,93.12
+South Africa,1990,28.76,Male,tracheal_bronchus_lung cancer,74.73
+South Africa,1990,28.76,Female,tracheal_bronchus_lung cancer,64.37
+South Africa,1995,29.18,Male,tracheal_bronchus_lung cancer,84.57
+South Africa,1995,29.18,Female,tracheal_bronchus_lung cancer,64.92
+South Africa,2000,28.69,Male,tracheal_bronchus_lung cancer,51.74
+South Africa,2000,28.69,Female,tracheal_bronchus_lung cancer,38.6
+South Africa,2005,27.03,Male,tracheal_bronchus_lung cancer,46.47
+South Africa,2005,27.03,Female,tracheal_bronchus_lung cancer,30.06
+South Africa,2010,29.4,Male,tracheal_bronchus_lung cancer,35.62
+South Africa,2010,29.4,Female,tracheal_bronchus_lung cancer,28.38
+South Africa,2011,29.45,Male,tracheal_bronchus_lung cancer,35.79
+South Africa,2011,29.45,Female,tracheal_bronchus_lung cancer,30.62
+South Africa,2012,29.17,Male,tracheal_bronchus_lung cancer,38.03
+South Africa,2012,29.17,Female,tracheal_bronchus_lung cancer,32.17
+South Africa,2013,28.77,Male,tracheal_bronchus_lung cancer,43.76
+South Africa,2013,28.77,Female,tracheal_bronchus_lung cancer,37.54
+South Africa,2014,29,Male,tracheal_bronchus_lung cancer,46.69
+South Africa,2014,29,Female,tracheal_bronchus_lung cancer,41.2
+South Africa,2015,29.24,Male,tracheal_bronchus_lung cancer,47.59
+South Africa,2015,29.24,Female,tracheal_bronchus_lung cancer,43.35
+South Africa,2016,28.72,Male,tracheal_bronchus_lung cancer,47.21
+South Africa,2016,28.72,Female,tracheal_bronchus_lung cancer,43.19
+South Africa,2017,28.86,Male,tracheal_bronchus_lung cancer,45.75
+South Africa,2017,28.86,Female,tracheal_bronchus_lung cancer,42.67
+South Africa,2018,28.75,Male,tracheal_bronchus_lung cancer,43.86
+South Africa,2018,28.75,Female,tracheal_bronchus_lung cancer,40.58
+South Africa,2019,28.67,Male,tracheal_bronchus_lung cancer,42.65
+South Africa,2019,28.67,Female,tracheal_bronchus_lung cancer,39.18
+Sweden,1990,9.78,Male,tracheal_bronchus_lung cancer,306.67
+Sweden,1990,9.78,Female,tracheal_bronchus_lung cancer,136.01
+Sweden,1995,8.85,Male,tracheal_bronchus_lung cancer,254.54
+Sweden,1995,8.85,Female,tracheal_bronchus_lung cancer,131.68
+Sweden,2000,8.43,Male,tracheal_bronchus_lung cancer,196.55
+Sweden,2000,8.43,Female,tracheal_bronchus_lung cancer,117.64
+Sweden,2005,7.31,Male,tracheal_bronchus_lung cancer,154.32
+Sweden,2005,7.31,Female,tracheal_bronchus_lung cancer,103.97
+Sweden,2010,7.4,Male,tracheal_bronchus_lung cancer,118.64
+Sweden,2010,7.4,Female,tracheal_bronchus_lung cancer,88.21
+Sweden,2011,7.47,Male,tracheal_bronchus_lung cancer,112.2
+Sweden,2011,7.47,Female,tracheal_bronchus_lung cancer,84.88
+Sweden,2012,6.17,Male,tracheal_bronchus_lung cancer,104.44
+Sweden,2012,6.17,Female,tracheal_bronchus_lung cancer,80.83
+Sweden,2013,6.17,Male,tracheal_bronchus_lung cancer,98.21
+Sweden,2013,6.17,Female,tracheal_bronchus_lung cancer,76.27
+Sweden,2014,6.45,Male,tracheal_bronchus_lung cancer,91.98
+Sweden,2014,6.45,Female,tracheal_bronchus_lung cancer,72.82
+Sweden,2015,5.87,Male,tracheal_bronchus_lung cancer,86.18
+Sweden,2015,5.87,Female,tracheal_bronchus_lung cancer,69.22
+Sweden,2016,5.45,Male,tracheal_bronchus_lung cancer,83.47
+Sweden,2016,5.45,Female,tracheal_bronchus_lung cancer,67.48
+Sweden,2017,5.69,Male,tracheal_bronchus_lung cancer,79.47
+Sweden,2017,5.69,Female,tracheal_bronchus_lung cancer,64.94
+Sweden,2018,5.69,Male,tracheal_bronchus_lung cancer,77.22
+Sweden,2018,5.69,Female,tracheal_bronchus_lung cancer,62.94
+Sweden,2019,5.65,Male,tracheal_bronchus_lung cancer,74.52
+Sweden,2019,5.65,Female,tracheal_bronchus_lung cancer,61.01
+Thailand,1990,38.36,Male,tracheal_bronchus_lung cancer,239.19
+Thailand,1990,38.36,Female,tracheal_bronchus_lung cancer,143.8
+Thailand,1995,36.12,Male,tracheal_bronchus_lung cancer,204.55
+Thailand,1995,36.12,Female,tracheal_bronchus_lung cancer,144.39
+Thailand,2000,34.53,Male,tracheal_bronchus_lung cancer,172.13
+Thailand,2000,34.53,Female,tracheal_bronchus_lung cancer,142.84
+Thailand,2005,35.32,Male,tracheal_bronchus_lung cancer,145.4
+Thailand,2005,35.32,Female,tracheal_bronchus_lung cancer,132.15
+Thailand,2010,35.42,Male,tracheal_bronchus_lung cancer,111.33
+Thailand,2010,35.42,Female,tracheal_bronchus_lung cancer,104.27
+Thailand,2011,29.91,Male,tracheal_bronchus_lung cancer,106.99
+Thailand,2011,29.91,Female,tracheal_bronchus_lung cancer,101.14
+Thailand,2012,31.34,Male,tracheal_bronchus_lung cancer,103.5
+Thailand,2012,31.34,Female,tracheal_bronchus_lung cancer,97.56
+Thailand,2013,33.79,Male,tracheal_bronchus_lung cancer,98.62
+Thailand,2013,33.79,Female,tracheal_bronchus_lung cancer,93.21
+Thailand,2014,29.43,Male,tracheal_bronchus_lung cancer,89.81
+Thailand,2014,29.43,Female,tracheal_bronchus_lung cancer,83.79
+Thailand,2015,28.04,Male,tracheal_bronchus_lung cancer,88.51
+Thailand,2015,28.04,Female,tracheal_bronchus_lung cancer,82.52
+Thailand,2016,30.69,Male,tracheal_bronchus_lung cancer,87.01
+Thailand,2016,30.69,Female,tracheal_bronchus_lung cancer,80.8
+Thailand,2017,26.93,Male,tracheal_bronchus_lung cancer,84.86
+Thailand,2017,26.93,Female,tracheal_bronchus_lung cancer,79.13
+Thailand,2018,27.48,Male,tracheal_bronchus_lung cancer,83.48
+Thailand,2018,27.48,Female,tracheal_bronchus_lung cancer,78.5
+Thailand,2019,27.4,Male,tracheal_bronchus_lung cancer,81.25
+Thailand,2019,27.4,Female,tracheal_bronchus_lung cancer,76.76
+Turkmenistan,1990,24.7,Male,tracheal_bronchus_lung cancer,"1,586.17"
+Turkmenistan,1990,24.7,Female,tracheal_bronchus_lung cancer,"1,161.35"
+Turkmenistan,1995,28.73,Male,tracheal_bronchus_lung cancer,"1,297.26"
+Turkmenistan,1995,28.73,Female,tracheal_bronchus_lung cancer,952.46
+Turkmenistan,2000,26.1,Male,tracheal_bronchus_lung cancer,955.13
+Turkmenistan,2000,26.1,Female,tracheal_bronchus_lung cancer,712.81
+Turkmenistan,2005,30.56,Male,tracheal_bronchus_lung cancer,681.2
+Turkmenistan,2005,30.56,Female,tracheal_bronchus_lung cancer,497.44
+Turkmenistan,2010,28.62,Male,tracheal_bronchus_lung cancer,445.37
+Turkmenistan,2010,28.62,Female,tracheal_bronchus_lung cancer,307.55
+Turkmenistan,2011,27.13,Male,tracheal_bronchus_lung cancer,400.68
+Turkmenistan,2011,27.13,Female,tracheal_bronchus_lung cancer,274.98
+Turkmenistan,2012,26.2,Male,tracheal_bronchus_lung cancer,366.94
+Turkmenistan,2012,26.2,Female,tracheal_bronchus_lung cancer,255.03
+Turkmenistan,2013,27.82,Male,tracheal_bronchus_lung cancer,344.35
+Turkmenistan,2013,27.82,Female,tracheal_bronchus_lung cancer,233.94
+Turkmenistan,2014,27.78,Male,tracheal_bronchus_lung cancer,317.36
+Turkmenistan,2014,27.78,Female,tracheal_bronchus_lung cancer,214.33
+Turkmenistan,2015,28.61,Male,tracheal_bronchus_lung cancer,304.49
+Turkmenistan,2015,28.61,Female,tracheal_bronchus_lung cancer,205.45
+Turkmenistan,2016,27.78,Male,tracheal_bronchus_lung cancer,293.35
+Turkmenistan,2016,27.78,Female,tracheal_bronchus_lung cancer,194.62
+Turkmenistan,2017,26.29,Male,tracheal_bronchus_lung cancer,284.39
+Turkmenistan,2017,26.29,Female,tracheal_bronchus_lung cancer,184.14
+Turkmenistan,2018,26.54,Male,tracheal_bronchus_lung cancer,278.86
+Turkmenistan,2018,26.54,Female,tracheal_bronchus_lung cancer,176.77
+Turkmenistan,2019,26.03,Male,tracheal_bronchus_lung cancer,270.44
+Turkmenistan,2019,26.03,Female,tracheal_bronchus_lung cancer,168.94
+United Kingdom,1990,17.41,Male,tracheal_bronchus_lung cancer,74.41
+United Kingdom,1990,17.41,Female,tracheal_bronchus_lung cancer,61
+United Kingdom,1995,16.38,Male,tracheal_bronchus_lung cancer,72.82
+United Kingdom,1995,16.38,Female,tracheal_bronchus_lung cancer,59.67
+United Kingdom,2000,14.86,Male,tracheal_bronchus_lung cancer,73.57
+United Kingdom,2000,14.86,Female,tracheal_bronchus_lung cancer,59.55
+United Kingdom,2005,13.34,Male,tracheal_bronchus_lung cancer,75.56
+United Kingdom,2005,13.34,Female,tracheal_bronchus_lung cancer,60.82
+United Kingdom,2010,12.43,Male,tracheal_bronchus_lung cancer,78.31
+United Kingdom,2010,12.43,Female,tracheal_bronchus_lung cancer,63.07
+United Kingdom,2011,13,Male,tracheal_bronchus_lung cancer,81.8
+United Kingdom,2011,13,Female,tracheal_bronchus_lung cancer,65.41
+United Kingdom,2012,11.43,Male,tracheal_bronchus_lung cancer,84.02
+United Kingdom,2012,11.43,Female,tracheal_bronchus_lung cancer,67.31
+United Kingdom,2013,11.42,Male,tracheal_bronchus_lung cancer,84.54
+United Kingdom,2013,11.42,Female,tracheal_bronchus_lung cancer,82.81
+United Kingdom,2014,10.89,Male,tracheal_bronchus_lung cancer,82.67
+United Kingdom,2014,10.89,Female,tracheal_bronchus_lung cancer,72.76
+United Kingdom,2015,10.37,Male,tracheal_bronchus_lung cancer,91.24
+United Kingdom,2015,10.37,Female,tracheal_bronchus_lung cancer,81.35
+United Kingdom,2016,10.21,Male,tracheal_bronchus_lung cancer,88.95
+United Kingdom,2016,10.21,Female,tracheal_bronchus_lung cancer,75.48
+United Kingdom,2017,10.36,Male,tracheal_bronchus_lung cancer,80.12
+United Kingdom,2017,10.36,Female,tracheal_bronchus_lung cancer,66.96
+United Kingdom,2018,10.17,Male,tracheal_bronchus_lung cancer,78.1
+United Kingdom,2018,10.17,Female,tracheal_bronchus_lung cancer,64.79
+United Kingdom,2019,10.09,Male,tracheal_bronchus_lung cancer,76.13
+United Kingdom,2019,10.09,Female,tracheal_bronchus_lung cancer,62.86
